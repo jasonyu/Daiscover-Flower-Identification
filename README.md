@@ -1,5 +1,5 @@
 # Daiscover: Flower Identification
-Created with CreateML  
+##### Created with CreateML  
 Source code for my iOS app that uses a deep learning image classifier to classify over 102 different species of flowers. Trained on a self augmented version of the VGG Flower dataset.
 
 ## Dataset
@@ -10,3 +10,7 @@ put here
 
 ## Other
 put here
+
+## Acknowledgements
+Google images download (https://github.com/hardikvasa/google-images-download)  
+VGG Flower Dataset (http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
