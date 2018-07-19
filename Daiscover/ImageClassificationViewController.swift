@@ -81,6 +81,11 @@ class ImageClassificationViewController: UIViewController {
         photoSourcePicker.addAction(choosePhoto)
         photoSourcePicker.addAction(UIAlertAction(title: "Cancel", style: .cancel, handler: nil))
         
+        // Allow pop up on iPad
+        if let popoverPicker = photoSourcePicker.popoverPresentationController {
+            popoverPicker.barButtonItem = self.cameraButton
+        }
+        
         present(photoSourcePicker, animated: true)
     }
     
