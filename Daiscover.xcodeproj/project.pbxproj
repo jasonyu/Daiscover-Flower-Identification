@@ -7,8 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		007712B6210026BF006330C8 /* PNG image.png in Resources */ = {isa = PBXBuildFile; fileRef = 007712B5210026BF006330C8 /* PNG image.png */; };
-		0082484520F4759E00BAC97E /* FlowerClass.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0082484420F4759E00BAC97E /* FlowerClass.mlmodel */; };
+		001909B4211BCBEC004291A5 /* REIS-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 001909B3211BCBEC004291A5 /* REIS-Regular.otf */; };
+		005DEDF7211BC49B00EDD7C5 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 005DEDF5211BC49B00EDD7C5 /* logo.png */; };
+		005DEDF8211BC49B00EDD7C5 /* flower photos in Resources */ = {isa = PBXBuildFile; fileRef = 005DEDF6211BC49B00EDD7C5 /* flower photos */; };
+		008C7C7D210962DF002E2537 /* FlowerClass.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */; };
 		11063F621EC0EECC0033EE6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11063F611EC0EECC0033EE6D /* AppDelegate.swift */; };
 		11063F641EC0EECC0033EE6D /* ImageClassificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11063F631EC0EECC0033EE6D /* ImageClassificationViewController.swift */; };
 		11063F671EC0EECC0033EE6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11063F651EC0EECC0033EE6D /* Main.storyboard */; };
@@ -18,8 +20,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		007712B5210026BF006330C8 /* PNG image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PNG image.png"; sourceTree = "<group>"; };
-		0082484420F4759E00BAC97E /* FlowerClass.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = FlowerClass.mlmodel; path = FlowerClass/FlowerClass.mlmodel; sourceTree = SOURCE_ROOT; };
+		001909B3211BCBEC004291A5 /* REIS-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "REIS-Regular.otf"; sourceTree = "<group>"; };
+		005DEDF5211BC49B00EDD7C5 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		005DEDF6211BC49B00EDD7C5 /* flower photos */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "flower photos"; sourceTree = "<group>"; };
+		008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = FlowerClass.mlmodel; path = FlowerClass/Models/FlowerClass.mlmodel; sourceTree = SOURCE_ROOT; };
 		11063F5E1EC0EECC0033EE6D /* Daiscover.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Daiscover.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11063F611EC0EECC0033EE6D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		11063F631EC0EECC0033EE6D /* ImageClassificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageClassificationViewController.swift; sourceTree = "<group>"; };
@@ -60,7 +64,7 @@
 		11063F601EC0EECC0033EE6D /* Daiscover */ = {
 			isa = PBXGroup;
 			children = (
-				0082484420F4759E00BAC97E /* FlowerClass.mlmodel */,
+				008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */,
 				11063F611EC0EECC0033EE6D /* AppDelegate.swift */,
 				11063F631EC0EECC0033EE6D /* ImageClassificationViewController.swift */,
 				11063F731EC0F5270033EE6D /* CGImagePropertyOrientationConversion.swift */,
@@ -73,7 +77,9 @@
 		C82A1C951F1809F5005996F6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				007712B5210026BF006330C8 /* PNG image.png */,
+				001909B3211BCBEC004291A5 /* REIS-Regular.otf */,
+				005DEDF5211BC49B00EDD7C5 /* logo.png */,
+				005DEDF6211BC49B00EDD7C5 /* flower photos */,
 				11063F681EC0EECC0033EE6D /* Assets.xcassets */,
 				11063F6D1EC0EECC0033EE6D /* Info.plist */,
 				113695D61EC1151400CA6C43 /* LaunchScreen.storyboard */,
@@ -139,7 +145,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				007712B6210026BF006330C8 /* PNG image.png in Resources */,
+				005DEDF8211BC49B00EDD7C5 /* flower photos in Resources */,
+				001909B4211BCBEC004291A5 /* REIS-Regular.otf in Resources */,
+				005DEDF7211BC49B00EDD7C5 /* logo.png in Resources */,
 				113695D81EC1151400CA6C43 /* LaunchScreen.storyboard in Resources */,
 				11063F691EC0EECC0033EE6D /* Assets.xcassets in Resources */,
 				11063F671EC0EECC0033EE6D /* Main.storyboard in Resources */,
@@ -153,9 +161,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				008C7C7D210962DF002E2537 /* FlowerClass.mlmodel in Sources */,
 				11063F741EC0F5270033EE6D /* CGImagePropertyOrientationConversion.swift in Sources */,
 				11063F641EC0EECC0033EE6D /* ImageClassificationViewController.swift in Sources */,
-				0082484520F4759E00BAC97E /* FlowerClass.mlmodel in Sources */,
 				11063F621EC0EECC0033EE6D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

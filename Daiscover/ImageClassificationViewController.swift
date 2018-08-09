@@ -8,6 +8,8 @@ class ImageClassificationViewController: UIViewController {
     @IBOutlet weak var imageView: UIImageView!
     @IBOutlet weak var cameraButton: UIBarButtonItem!
     @IBOutlet weak var classificationLabel: UILabel!
+    @IBOutlet weak var classificationText: UITextView!
+    @IBOutlet weak var predictionView: UIImageView!
     
     // Create a request through FlowerClass Model
     lazy var classificationRequest: VNCoreMLRequest = {
@@ -53,48 +55,28 @@ class ImageClassificationViewController: UIViewController {
             if classifications.isEmpty {
                 self.classificationLabel.text = "Unable to recognize flower."
             } else {
-                let topClassifications = classifications.prefix(2)
+                let topClassifications = classifications.prefix(3)
                 let descriptions = topClassifications.map { classification in
                     return String(format: " %@ (%.1f chance)", classification.identifier, classification.confidence * 100)
                 }
                 self.classificationLabel.text = "Classification:\n" + descriptions.joined(separator: "\n")
+                self.classificationText.text = topClassifications[0].identifier
+                self.predictionView.image = UIImage(named: "flower photos/" + topClassifications[0].identifier + ".jpg");
             }
         }
     }
-    
+
     @IBAction func takePicture() {
-        // Show options for the source picker only if the camera is available
         guard UIImagePickerController.isSourceTypeAvailable(.camera) else {
-            presentPhotoPicker(sourceType: .photoLibrary)
             return
         }
-        
-        let photoSourcePicker = UIAlertController()
-        let takePhoto = UIAlertAction(title: "Take Photo of Flower", style: .default) { [unowned self] _ in
-            self.presentPhotoPicker(sourceType: .camera)
-        }
-        let choosePhoto = UIAlertAction(title: "Choose Photo of Flower", style: .default) { [unowned self] _ in
-            self.presentPhotoPicker(sourceType: .photoLibrary)
-        }
-        
-        photoSourcePicker.addAction(takePhoto)
-        photoSourcePicker.addAction(choosePhoto)
-        photoSourcePicker.addAction(UIAlertAction(title: "Cancel", style: .cancel, handler: nil))
-        
-        // Allow pop up on iPad
-        if let popoverPicker = photoSourcePicker.popoverPresentationController {
-            popoverPicker.barButtonItem = self.cameraButton
-        }
-        
-        present(photoSourcePicker, animated: true)
-    }
-    
-    func presentPhotoPicker(sourceType: UIImagePickerControllerSourceType) {
+        let next = self.storyboard?.instantiateViewController(withIdentifier: "mainVC")
         let picker = UIImagePickerController()
         picker.delegate = self
-        picker.sourceType = sourceType
-        present(picker, animated: true)
+        picker.sourceType = .camera
+        next?.present(picker, animated: true)
     }
+    
 }
 
 // Work with new image
@@ -103,6 +85,6 @@ extension ImageClassificationViewController: UIImagePickerControllerDelegate, UI
         picker.dismiss(animated: true)
         let image = info[UIImagePickerControllerOriginalImage] as! UIImage
         imageView.image = image //update UI
-        updateClassifications(for: image) //calssify
+        updateClassifications(for: image) //classify
     }
 }
