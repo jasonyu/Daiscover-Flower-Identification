@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		001909B4211BCBEC004291A5 /* REIS-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 001909B3211BCBEC004291A5 /* REIS-Regular.otf */; };
+		00201DCF211CB6ED00C99279 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00201DCE211CB6ED00C99279 /* Launch Screen.storyboard */; };
 		005DEDF7211BC49B00EDD7C5 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 005DEDF5211BC49B00EDD7C5 /* logo.png */; };
 		005DEDF8211BC49B00EDD7C5 /* flower photos in Resources */ = {isa = PBXBuildFile; fileRef = 005DEDF6211BC49B00EDD7C5 /* flower photos */; };
 		008C7C7D210962DF002E2537 /* FlowerClass.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */; };
@@ -17,11 +18,11 @@
 		11063F671EC0EECC0033EE6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11063F651EC0EECC0033EE6D /* Main.storyboard */; };
 		11063F691EC0EECC0033EE6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11063F681EC0EECC0033EE6D /* Assets.xcassets */; };
 		11063F741EC0F5270033EE6D /* CGImagePropertyOrientationConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11063F731EC0F5270033EE6D /* CGImagePropertyOrientationConversion.swift */; };
-		113695D81EC1151400CA6C43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 113695D61EC1151400CA6C43 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		001909B3211BCBEC004291A5 /* REIS-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "REIS-Regular.otf"; sourceTree = "<group>"; };
+		00201DCE211CB6ED00C99279 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		005DEDF5211BC49B00EDD7C5 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 		005DEDF6211BC49B00EDD7C5 /* flower photos */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "flower photos"; sourceTree = "<group>"; };
 		008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = FlowerClass.mlmodel; path = "Daiscover/Supporting Files/FlowerClass.mlmodel"; sourceTree = SOURCE_ROOT; };
@@ -33,7 +34,6 @@
 		11063F681EC0EECC0033EE6D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11063F6D1EC0EECC0033EE6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		11063F731EC0F5270033EE6D /* CGImagePropertyOrientationConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGImagePropertyOrientationConversion.swift; sourceTree = "<group>"; };
-		113695D71EC1151400CA6C43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,13 +79,13 @@
 		C82A1C951F1809F5005996F6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				00201DCE211CB6ED00C99279 /* Launch Screen.storyboard */,
 				008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */,
 				001909B3211BCBEC004291A5 /* REIS-Regular.otf */,
 				005DEDF5211BC49B00EDD7C5 /* logo.png */,
 				005DEDF6211BC49B00EDD7C5 /* flower photos */,
 				11063F681EC0EECC0033EE6D /* Assets.xcassets */,
 				11063F6D1EC0EECC0033EE6D /* Info.plist */,
-				113695D61EC1151400CA6C43 /* LaunchScreen.storyboard */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -149,10 +149,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00201DCF211CB6ED00C99279 /* Launch Screen.storyboard in Resources */,
 				005DEDF8211BC49B00EDD7C5 /* flower photos in Resources */,
 				001909B4211BCBEC004291A5 /* REIS-Regular.otf in Resources */,
 				005DEDF7211BC49B00EDD7C5 /* logo.png in Resources */,
-				113695D81EC1151400CA6C43 /* LaunchScreen.storyboard in Resources */,
 				11063F691EC0EECC0033EE6D /* Assets.xcassets in Resources */,
 				11063F671EC0EECC0033EE6D /* Main.storyboard in Resources */,
 			);
@@ -182,15 +182,6 @@
 				11063F661EC0EECC0033EE6D /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		113695D61EC1151400CA6C43 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				113695D71EC1151400CA6C43 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -322,7 +313,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -339,7 +330,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

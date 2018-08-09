@@ -24,8 +24,12 @@
 	<true/>
 	<key>NSCameraUsageDescription</key>
 	<string>Takes pictures of flowers to ID them through ML.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>REIS-Regular.otf</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
-	<string>LaunchScreen</string>
+	<string>Launch Screen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -35,13 +39,7 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
-	</array>
-	<key>UIAppFonts</key>
-	<array>
-		<string>REIS-Regular.otf</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
