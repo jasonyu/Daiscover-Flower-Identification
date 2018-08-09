@@ -11,8 +11,9 @@
 		005DEDF7211BC49B00EDD7C5 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 005DEDF5211BC49B00EDD7C5 /* logo.png */; };
 		005DEDF8211BC49B00EDD7C5 /* flower photos in Resources */ = {isa = PBXBuildFile; fileRef = 005DEDF6211BC49B00EDD7C5 /* flower photos */; };
 		008C7C7D210962DF002E2537 /* FlowerClass.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */; };
+		0095C465211BFAD5008EE024 /* StartupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0095C464211BFAD5008EE024 /* StartupViewController.swift */; };
+		0095C467211BFB3D008EE024 /* ClassificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0095C466211BFB3D008EE024 /* ClassificationViewController.swift */; };
 		11063F621EC0EECC0033EE6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11063F611EC0EECC0033EE6D /* AppDelegate.swift */; };
-		11063F641EC0EECC0033EE6D /* ImageClassificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11063F631EC0EECC0033EE6D /* ImageClassificationViewController.swift */; };
 		11063F671EC0EECC0033EE6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11063F651EC0EECC0033EE6D /* Main.storyboard */; };
 		11063F691EC0EECC0033EE6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11063F681EC0EECC0033EE6D /* Assets.xcassets */; };
 		11063F741EC0F5270033EE6D /* CGImagePropertyOrientationConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11063F731EC0F5270033EE6D /* CGImagePropertyOrientationConversion.swift */; };
@@ -23,10 +24,11 @@
 		001909B3211BCBEC004291A5 /* REIS-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "REIS-Regular.otf"; sourceTree = "<group>"; };
 		005DEDF5211BC49B00EDD7C5 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 		005DEDF6211BC49B00EDD7C5 /* flower photos */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "flower photos"; sourceTree = "<group>"; };
-		008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = FlowerClass.mlmodel; path = FlowerClass/Models/FlowerClass.mlmodel; sourceTree = SOURCE_ROOT; };
+		008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = FlowerClass.mlmodel; path = "Daiscover/Supporting Files/FlowerClass.mlmodel"; sourceTree = SOURCE_ROOT; };
+		0095C464211BFAD5008EE024 /* StartupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartupViewController.swift; sourceTree = "<group>"; };
+		0095C466211BFB3D008EE024 /* ClassificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassificationViewController.swift; sourceTree = "<group>"; };
 		11063F5E1EC0EECC0033EE6D /* Daiscover.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Daiscover.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11063F611EC0EECC0033EE6D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		11063F631EC0EECC0033EE6D /* ImageClassificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageClassificationViewController.swift; sourceTree = "<group>"; };
 		11063F661EC0EECC0033EE6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		11063F681EC0EECC0033EE6D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11063F6D1EC0EECC0033EE6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -64,9 +66,9 @@
 		11063F601EC0EECC0033EE6D /* Daiscover */ = {
 			isa = PBXGroup;
 			children = (
-				008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */,
 				11063F611EC0EECC0033EE6D /* AppDelegate.swift */,
-				11063F631EC0EECC0033EE6D /* ImageClassificationViewController.swift */,
+				0095C466211BFB3D008EE024 /* ClassificationViewController.swift */,
+				0095C464211BFAD5008EE024 /* StartupViewController.swift */,
 				11063F731EC0F5270033EE6D /* CGImagePropertyOrientationConversion.swift */,
 				11063F651EC0EECC0033EE6D /* Main.storyboard */,
 				C82A1C951F1809F5005996F6 /* Supporting Files */,
@@ -77,6 +79,7 @@
 		C82A1C951F1809F5005996F6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */,
 				001909B3211BCBEC004291A5 /* REIS-Regular.otf */,
 				005DEDF5211BC49B00EDD7C5 /* logo.png */,
 				005DEDF6211BC49B00EDD7C5 /* flower photos */,
@@ -119,6 +122,7 @@
 				TargetAttributes = {
 					11063F5D1EC0EECC0033EE6D = {
 						CreatedOnToolsVersion = 9.0;
+						LastSwiftMigration = 1000;
 					};
 				};
 			};
@@ -163,8 +167,9 @@
 			files = (
 				008C7C7D210962DF002E2537 /* FlowerClass.mlmodel in Sources */,
 				11063F741EC0F5270033EE6D /* CGImagePropertyOrientationConversion.swift in Sources */,
-				11063F641EC0EECC0033EE6D /* ImageClassificationViewController.swift in Sources */,
+				0095C467211BFB3D008EE024 /* ClassificationViewController.swift in Sources */,
 				11063F621EC0EECC0033EE6D /* AppDelegate.swift in Sources */,
+				0095C465211BFAD5008EE024 /* StartupViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -316,7 +321,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.reed.daiscover;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -333,7 +338,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.reed.daiscover;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
