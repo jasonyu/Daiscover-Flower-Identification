@@ -8,27 +8,84 @@
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
+    <customFonts key="customFonts">
+        <array key="REIS-Regular.otf">
+            <string>REIS-Regular</string>
+        </array>
+    </customFonts>
     <scenes>
         <!--View Controller-->
         <scene sceneID="EHf-IW-A2E">
             <objects>
                 <viewController id="01J-lp-oVM" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="4na-hl-MPw">
+                    <view key="view" contentMode="scaleToFill" id="4sC-hv-zSk">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="Evn-1P-YVn">
-                                <rect key="frame" x="67.666666666666686" y="45" width="240" height="240"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="cCe-vd-L8U">
+                                <rect key="frame" x="70" y="84" width="235" height="235"/>
                                 <gestureRecognizers/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="cCe-vd-L8U" secondAttribute="height" multiplier="1:1" id="NGu-xI-Lad"/>
+                                </constraints>
                             </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="1000" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TEC-oW-49Q">
+                                <rect key="frame" x="117.66666666666669" y="546.33333333333337" width="140" height="58"/>
+                                <accessibility key="accessibilityConfiguration">
+                                    <accessibilityTraits key="traits" button="YES" staticText="YES"/>
+                                </accessibility>
+                                <gestureRecognizers/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="TEC-oW-49Q" secondAttribute="height" multiplier="70:29" id="7MG-Cb-pYi"/>
+                                    <constraint firstAttribute="height" constant="58" id="93J-sb-Yaf"/>
+                                    <constraint firstAttribute="width" constant="140" id="9bY-ef-obg"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="REIS-Regular" family="REIS" pointSize="33"/>
+                                <state key="normal" title="Take Picture">
+                                    <color key="titleColor" red="1" green="0.98207503559999998" blue="0.87762540580000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Flower Identificaition" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="MhW-1Q-lIO">
+                                <rect key="frame" x="80" y="405" width="215" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="MhW-1Q-lIO" secondAttribute="height" multiplier="43:8" id="hQE-fI-VhN"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="REIS-Regular" family="REIS" pointSize="33"/>
+                                <color key="textColor" red="1" green="0.98207503559999998" blue="0.87762540580000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Daiscover" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="AJh-i5-Bue">
+                                <rect key="frame" x="74.666666666666686" y="305" width="226" height="101"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="AJh-i5-Bue" secondAttribute="height" multiplier="226:101" id="AAb-Qa-Hqe"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="REIS-Regular" family="REIS" pointSize="84"/>
+                                <color key="textColor" red="1" green="0.98207503559999998" blue="0.87762540580000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="0.99934309720000003" green="0.67420345540000004" blue="0.007206617389" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <gestureRecognizers/>
                         <constraints>
-                            <constraint firstItem="Evn-1P-YVn" firstAttribute="leading" secondItem="L1v-E6-mT0" secondAttribute="leading" constant="67.5" id="MWM-kG-dis"/>
-                            <constraint firstItem="L1v-E6-mT0" firstAttribute="trailing" secondItem="Evn-1P-YVn" secondAttribute="trailing" constant="67.5" id="shY-we-rxE"/>
+                            <constraint firstItem="cCe-vd-L8U" firstAttribute="centerX" secondItem="4sC-hv-zSk" secondAttribute="centerX" id="2j1-et-f8n"/>
+                            <constraint firstItem="TEC-oW-49Q" firstAttribute="centerX" secondItem="4sC-hv-zSk" secondAttribute="centerX" id="4So-DG-jhz"/>
+                            <constraint firstItem="5Xv-gP-qWf" firstAttribute="trailing" secondItem="TEC-oW-49Q" secondAttribute="trailing" priority="500" constant="118" id="5vk-zh-uqH"/>
+                            <constraint firstItem="cCe-vd-L8U" firstAttribute="leading" secondItem="4sC-hv-zSk" secondAttribute="leading" constant="70" id="8Od-XO-hsD"/>
+                            <constraint firstItem="5Xv-gP-qWf" firstAttribute="trailing" secondItem="MhW-1Q-lIO" secondAttribute="trailing" constant="80" id="8Ty-gW-lZk"/>
+                            <constraint firstAttribute="trailing" secondItem="cCe-vd-L8U" secondAttribute="trailing" constant="70" id="BqD-sj-623"/>
+                            <constraint firstItem="AJh-i5-Bue" firstAttribute="centerX" secondItem="4sC-hv-zSk" secondAttribute="centerX" id="C51-pI-ff6"/>
+                            <constraint firstItem="AJh-i5-Bue" firstAttribute="leading" secondItem="5Xv-gP-qWf" secondAttribute="leading" constant="74.5" id="G0O-9e-9ai"/>
+                            <constraint firstItem="AJh-i5-Bue" firstAttribute="top" secondItem="cCe-vd-L8U" secondAttribute="bottom" constant="-14" id="Ogl-e1-14c"/>
+                            <constraint firstItem="TEC-oW-49Q" firstAttribute="top" secondItem="MhW-1Q-lIO" secondAttribute="bottom" priority="750" constant="101.33" id="Zxx-KO-ibb"/>
+                            <constraint firstItem="5Xv-gP-qWf" firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="TEC-oW-49Q" secondAttribute="bottom" constant="20" id="c0i-Vc-iXh"/>
+                            <constraint firstItem="MhW-1Q-lIO" firstAttribute="centerX" secondItem="4sC-hv-zSk" secondAttribute="centerX" id="gLA-Gu-hJv"/>
+                            <constraint firstItem="MhW-1Q-lIO" firstAttribute="leading" secondItem="5Xv-gP-qWf" secondAttribute="leading" constant="80" id="mj9-hv-sSu"/>
+                            <constraint firstItem="MhW-1Q-lIO" firstAttribute="top" secondItem="AJh-i5-Bue" secondAttribute="bottom" constant="-1" id="ndv-Py-1sm"/>
+                            <constraint firstItem="cCe-vd-L8U" firstAttribute="top" secondItem="5Xv-gP-qWf" secondAttribute="top" constant="40" id="pRx-8w-Mhf"/>
+                            <constraint firstItem="5Xv-gP-qWf" firstAttribute="trailing" secondItem="AJh-i5-Bue" secondAttribute="trailing" constant="74.5" id="t6K-EM-80N"/>
+                            <constraint firstItem="TEC-oW-49Q" firstAttribute="leading" secondItem="5Xv-gP-qWf" secondAttribute="leading" priority="500" constant="117" id="xDn-RO-TNt"/>
                         </constraints>
-                        <viewLayoutGuide key="safeArea" id="L1v-E6-mT0"/>
+                        <viewLayoutGuide key="safeArea" id="5Xv-gP-qWf"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>

@@ -50,19 +50,18 @@
                                 </items>
                                 <color key="barTintColor" red="1" green="0.67400610446929932" blue="0.0044026882387697697" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
                             </toolbar>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xDF-ks-YRk">
-                                <rect key="frame" x="92" y="1055" width="151" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Not the correct flower"/>
-                            </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="XW7-nc-RdT">
-                                <rect key="frame" x="23" y="44" width="328" height="252"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="XW7-nc-RdT">
+                                <rect key="frame" x="23" y="44" width="328" height="251"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="XW7-nc-RdT" secondAttribute="height" multiplier="328:251" id="que-xt-xF6"/>
+                                </constraints>
                             </imageView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" adjustsFontForContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="6fd-81-3mB">
-                                <rect key="frame" x="23" y="304" width="328" height="395"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" adjustsFontForContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="6fd-81-3mB">
+                                <rect key="frame" x="23" y="315" width="328" height="384"/>
                                 <color key="backgroundColor" red="1" green="0.98026043176651001" blue="0.87806969881057739" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="200" id="6AH-3Y-2Rj"/>
+                                </constraints>
                                 <color key="textColor" red="0.17252564430236816" green="0.17256247997283936" blue="0.17252331972122192" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -71,7 +70,14 @@
                         <color key="backgroundColor" red="1" green="0.98026043176651001" blue="0.87806969881057739" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="f06-Zb-U4b" firstAttribute="bottom" secondItem="Gj5-Ut-Web" secondAttribute="bottom" id="1yr-19-2vS"/>
+                            <constraint firstItem="XW7-nc-RdT" firstAttribute="leading" secondItem="Gj5-Ut-Web" secondAttribute="leading" constant="23" id="59B-bH-s6v"/>
+                            <constraint firstItem="Gj5-Ut-Web" firstAttribute="trailing" secondItem="XW7-nc-RdT" secondAttribute="trailing" constant="24" id="Gl3-Rg-glm"/>
+                            <constraint firstItem="XW7-nc-RdT" firstAttribute="top" secondItem="Gj5-Ut-Web" secondAttribute="top" id="HWs-wB-pYV"/>
+                            <constraint firstItem="Gj5-Ut-Web" firstAttribute="trailing" secondItem="6fd-81-3mB" secondAttribute="trailing" constant="24" id="YPp-op-HZ6"/>
+                            <constraint firstItem="f06-Zb-U4b" firstAttribute="top" secondItem="6fd-81-3mB" secondAttribute="bottom" constant="30" id="ZLZ-Gu-cEg"/>
+                            <constraint firstItem="6fd-81-3mB" firstAttribute="leading" secondItem="Gj5-Ut-Web" secondAttribute="leading" constant="23" id="d61-YT-2x9"/>
                             <constraint firstItem="f06-Zb-U4b" firstAttribute="leading" secondItem="Gj5-Ut-Web" secondAttribute="leading" id="jdU-fy-NMY"/>
+                            <constraint firstItem="6fd-81-3mB" firstAttribute="top" secondItem="XW7-nc-RdT" secondAttribute="bottom" constant="20" id="jw8-4F-ybm"/>
                             <constraint firstItem="f06-Zb-U4b" firstAttribute="trailing" secondItem="Gj5-Ut-Web" secondAttribute="trailing" id="kdw-8p-fFz"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="Gj5-Ut-Web"/>
@@ -94,18 +100,12 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" bounces="NO" scrollEnabled="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" delaysContentTouches="NO" canCancelContentTouches="NO" bouncesZoom="NO" editable="NO" text="Daiscover" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="V6Q-tV-1JZ">
-                                <rect key="frame" x="67" y="313" width="240" height="128"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.99934309720993042" green="0.67420345544815063" blue="0.0072066173888742924" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <color key="textColor" red="1" green="0.982075035572052" blue="0.87762540578842163" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="REIS-Regular" family="REIS" pointSize="84"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                            </textView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="rwK-0P-lFN">
-                                <rect key="frame" x="67" y="101" width="240" height="240"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="rwK-0P-lFN">
+                                <rect key="frame" x="70" y="84" width="235" height="235"/>
                                 <gestureRecognizers/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="rwK-0P-lFN" secondAttribute="height" multiplier="1:1" id="oXG-1A-Izy"/>
+                                </constraints>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
                                         <integer key="value" value="9"/>
@@ -113,22 +113,18 @@
                                     <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
                                 </userDefinedRuntimeAttributes>
                             </imageView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" bounces="NO" scrollEnabled="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" delaysContentTouches="NO" canCancelContentTouches="NO" bouncesZoom="NO" editable="NO" text="Flower Identificaition" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HTF-5n-oAc">
-                                <rect key="frame" x="41" y="420" width="292" height="61"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.99934309720000003" green="0.67420345540000004" blue="0.007206617389" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <color key="textColor" red="1" green="0.98207503559999998" blue="0.87762540580000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="REIS-Regular" family="REIS" pointSize="33"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                            </textView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="d5G-AD-Acm">
-                                <rect key="frame" x="105" y="564" width="164" height="111"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="1000" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="d5G-AD-Acm">
+                                <rect key="frame" x="117.66666666666669" y="546.33333333333337" width="140" height="58"/>
                                 <accessibility key="accessibilityConfiguration">
                                     <accessibilityTraits key="traits" button="YES" staticText="YES"/>
                                 </accessibility>
                                 <gestureRecognizers/>
-                                <fontDescription key="fontDescription" name="REIS-Regular" family="REIS" pointSize="38"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="d5G-AD-Acm" secondAttribute="height" multiplier="70:29" id="YoA-Rt-QFg"/>
+                                    <constraint firstAttribute="height" constant="58" id="eth-P8-uZI"/>
+                                    <constraint firstAttribute="width" constant="140" id="qmC-Yd-4V2"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="REIS-Regular" family="REIS" pointSize="33"/>
                                 <state key="normal" title="Take Picture">
                                     <color key="titleColor" red="1" green="0.982075035572052" blue="0.87762540578842163" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
@@ -136,9 +132,46 @@
                                     <action selector="startButton" destination="VrH-km-XUv" eventType="touchUpInside" id="Kp1-HE-4Bu"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Flower Identificaition" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="LBa-Sj-hNl">
+                                <rect key="frame" x="80" y="405" width="215" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="LBa-Sj-hNl" secondAttribute="height" multiplier="43:8" id="d9C-UI-TrP"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="REIS-Regular" family="REIS" pointSize="33"/>
+                                <color key="textColor" red="1" green="0.982075035572052" blue="0.87762540578842163" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Daiscover" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="anf-Ff-epY">
+                                <rect key="frame" x="74.666666666666686" y="305" width="226" height="101"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="anf-Ff-epY" secondAttribute="height" multiplier="226:101" id="aiV-h4-xHa"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="REIS-Regular" family="REIS" pointSize="84"/>
+                                <color key="textColor" red="1" green="0.982075035572052" blue="0.87762540578842163" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="0.99934309720993042" green="0.67420345544815063" blue="0.0072066173888742924" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <gestureRecognizers/>
+                        <constraints>
+                            <constraint firstItem="sXm-Hd-fPO" firstAttribute="trailing" secondItem="d5G-AD-Acm" secondAttribute="trailing" priority="500" constant="118" id="0MY-VT-CA1"/>
+                            <constraint firstItem="sXm-Hd-fPO" firstAttribute="trailing" secondItem="anf-Ff-epY" secondAttribute="trailing" constant="74.5" id="3d2-y6-1Lf"/>
+                            <constraint firstItem="rwK-0P-lFN" firstAttribute="leading" secondItem="vb9-RT-YOI" secondAttribute="leading" constant="70" id="4Za-So-e3S"/>
+                            <constraint firstItem="d5G-AD-Acm" firstAttribute="top" secondItem="LBa-Sj-hNl" secondAttribute="bottom" priority="750" constant="101.33" id="72R-Mq-GOF"/>
+                            <constraint firstItem="anf-Ff-epY" firstAttribute="leading" secondItem="sXm-Hd-fPO" secondAttribute="leading" constant="74.5" id="Ab6-dA-IBS"/>
+                            <constraint firstItem="LBa-Sj-hNl" firstAttribute="centerX" secondItem="vb9-RT-YOI" secondAttribute="centerX" id="AhT-Xo-MLk"/>
+                            <constraint firstItem="d5G-AD-Acm" firstAttribute="centerX" secondItem="vb9-RT-YOI" secondAttribute="centerX" id="FgI-cl-NpV"/>
+                            <constraint firstItem="LBa-Sj-hNl" firstAttribute="leading" secondItem="sXm-Hd-fPO" secondAttribute="leading" constant="80" id="JzW-MF-QvD"/>
+                            <constraint firstItem="sXm-Hd-fPO" firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="d5G-AD-Acm" secondAttribute="bottom" constant="20" id="QuB-HK-EU6"/>
+                            <constraint firstItem="rwK-0P-lFN" firstAttribute="top" secondItem="sXm-Hd-fPO" secondAttribute="top" constant="40" id="bdD-WK-5MJ"/>
+                            <constraint firstItem="sXm-Hd-fPO" firstAttribute="trailing" secondItem="LBa-Sj-hNl" secondAttribute="trailing" constant="80" id="gH5-nM-VOk"/>
+                            <constraint firstItem="anf-Ff-epY" firstAttribute="top" secondItem="rwK-0P-lFN" secondAttribute="bottom" constant="-14" id="iht-Ws-Axg"/>
+                            <constraint firstItem="anf-Ff-epY" firstAttribute="centerX" secondItem="vb9-RT-YOI" secondAttribute="centerX" id="is7-Bu-tUa"/>
+                            <constraint firstItem="LBa-Sj-hNl" firstAttribute="top" secondItem="anf-Ff-epY" secondAttribute="bottom" constant="-1" id="kaS-Bh-a1U"/>
+                            <constraint firstAttribute="trailing" secondItem="rwK-0P-lFN" secondAttribute="trailing" constant="70" id="lOt-B9-Aql"/>
+                            <constraint firstItem="rwK-0P-lFN" firstAttribute="centerX" secondItem="vb9-RT-YOI" secondAttribute="centerX" id="nUn-Gt-BO0"/>
+                            <constraint firstItem="d5G-AD-Acm" firstAttribute="leading" secondItem="sXm-Hd-fPO" secondAttribute="leading" priority="500" constant="117" id="sXj-et-8Kk"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="sXm-Hd-fPO"/>
                         <connections>
                             <outletCollection property="gestureRecognizers" destination="hsu-H7-udO" appends="YES" id="ltA-7h-YeS"/>
@@ -148,7 +181,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="14e-au-gcG" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <swipeGestureRecognizer direction="left" id="hsu-H7-udO"/>
             </objects>
-            <point key="canvasLocation" x="-574" y="421"/>
+            <point key="canvasLocation" x="-575.625" y="418.3098591549296"/>
         </scene>
     </scenes>
     <resources>
