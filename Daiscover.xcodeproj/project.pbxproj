@@ -14,6 +14,8 @@
 		008C7C7D210962DF002E2537 /* FlowerClass.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */; };
 		0095C465211BFAD5008EE024 /* StartupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0095C464211BFAD5008EE024 /* StartupViewController.swift */; };
 		0095C467211BFB3D008EE024 /* ClassificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0095C466211BFB3D008EE024 /* ClassificationViewController.swift */; };
+		00D25523212CEE7300A2E403 /* incrementbuild.sh in Resources */ = {isa = PBXBuildFile; fileRef = 00D25522212CEE7300A2E403 /* incrementbuild.sh */; };
+		00D2552D212CFA8000A2E403 /* database.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D2552C212CFA8000A2E403 /* database.json */; };
 		11063F621EC0EECC0033EE6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11063F611EC0EECC0033EE6D /* AppDelegate.swift */; };
 		11063F671EC0EECC0033EE6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11063F651EC0EECC0033EE6D /* Main.storyboard */; };
 		11063F691EC0EECC0033EE6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11063F681EC0EECC0033EE6D /* Assets.xcassets */; };
@@ -28,6 +30,8 @@
 		008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = FlowerClass.mlmodel; path = "Daiscover/Supporting Files/FlowerClass.mlmodel"; sourceTree = SOURCE_ROOT; };
 		0095C464211BFAD5008EE024 /* StartupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartupViewController.swift; sourceTree = "<group>"; };
 		0095C466211BFB3D008EE024 /* ClassificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassificationViewController.swift; sourceTree = "<group>"; };
+		00D25522212CEE7300A2E403 /* incrementbuild.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = incrementbuild.sh; sourceTree = "<group>"; };
+		00D2552C212CFA8000A2E403 /* database.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = database.json; sourceTree = "<group>"; };
 		11063F5E1EC0EECC0033EE6D /* Daiscover.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Daiscover.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11063F611EC0EECC0033EE6D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		11063F661EC0EECC0033EE6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -80,7 +84,9 @@
 			isa = PBXGroup;
 			children = (
 				00201DCE211CB6ED00C99279 /* Launch Screen.storyboard */,
+				00D25522212CEE7300A2E403 /* incrementbuild.sh */,
 				008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */,
+				00D2552C212CFA8000A2E403 /* database.json */,
 				001909B3211BCBEC004291A5 /* REIS-Regular.otf */,
 				005DEDF5211BC49B00EDD7C5 /* logo.png */,
 				005DEDF6211BC49B00EDD7C5 /* flower photos */,
@@ -100,6 +106,7 @@
 				11063F5A1EC0EECC0033EE6D /* Sources */,
 				11063F5B1EC0EECC0033EE6D /* Frameworks */,
 				11063F5C1EC0EECC0033EE6D /* Resources */,
+				00D25524212CEE9900A2E403 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -123,6 +130,7 @@
 					11063F5D1EC0EECC0033EE6D = {
 						CreatedOnToolsVersion = 9.0;
 						LastSwiftMigration = 1000;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -151,14 +159,36 @@
 			files = (
 				00201DCF211CB6ED00C99279 /* Launch Screen.storyboard in Resources */,
 				005DEDF8211BC49B00EDD7C5 /* flower photos in Resources */,
+				00D2552D212CFA8000A2E403 /* database.json in Resources */,
 				001909B4211BCBEC004291A5 /* REIS-Regular.otf in Resources */,
 				005DEDF7211BC49B00EDD7C5 /* logo.png in Resources */,
 				11063F691EC0EECC0033EE6D /* Assets.xcassets in Resources */,
+				00D25523212CEE7300A2E403 /* incrementbuild.sh in Resources */,
 				11063F671EC0EECC0033EE6D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		00D25524212CEE9900A2E403 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/Users/reed/Desktop/Daiscover-Flower-Identification/Daiscover/Supporting\\ Files/incrementbuild.sh\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		11063F5A1EC0EECC0033EE6D /* Sources */ = {
@@ -304,6 +334,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COREML_CODEGEN_LANGUAGE = Swift;
 				DEVELOPMENT_TEAM = 2U9P7C4ZE6;
 				INFOPLIST_FILE = "Daiscover/Supporting Files/Info.plist";
@@ -321,6 +353,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COREML_CODEGEN_LANGUAGE = Swift;
 				DEVELOPMENT_TEAM = 2U9P7C4ZE6;
 				INFOPLIST_FILE = "Daiscover/Supporting Files/Info.plist";

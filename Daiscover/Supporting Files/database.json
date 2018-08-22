@@ -1,0 +1,725 @@
+{
+    "flowers": [
+        {
+            "name": "alpine sea holly",
+            "family": "Apiaceae",
+            "genus": "Eryngium",
+            "species": "E. alpinum",
+            "wiki": "Eryngium alpinum is a hemicryptophyte, its overwintering buds are situated just below the soil surface and the floral axis more or less erect with a few leaves. The roots are deep and robust. The stems are solitary and erect, usually with three branches on the apex and with longitudinal purple stripes. This plant generally reaches about 30–70 centimetres (12–28 in) in height, with a maximum of 100 centimetres (39 in). The basal leaves are oval or heart-shaped, 10–15 centimetres (3.9–5.9 in) wide and 13–17 centimetres (5.1–6.7 in) long, with toothed hedges and a long petiole. The cauline leaves are sessile and progressively more divided.The inflorescences are dense umbels at the top of the main branches. They are bright green at the bases and the stiff, bristly bracts are blue. They are about 4 cm long and 2 cm diameter and the bracts are up to 25 centimetres (9.8 in) long. The flowers inside are about 2 mm long. The peripheral flowers are sterile and the internal flowers are hermaphroditic. Both types are actinomorphic and pentamerous, with five petals. Flowering occurs in July through September. The flowers are insect-pollinated. The fruit is a spiny achene about half a centimeter wide."
+        },
+        {
+            "name": "anthurium",
+            "family": "Araceae",
+            "genus": "Anthurium",
+            "species": "",
+            "wiki": "Anthurium, is a genus of about 1000 species of flowering plants, the largest genus of the arum family, Araceae. General common names include anthurium, tailflower, flamingo flower, and laceleaf. The genus is native to the Americas, where it is distributed from northern Mexico to northern Argentina and parts of the Caribbean. Like most houseplants, Anthurium has been shown to help remove formaldehyde, xylene, and ammonia from household air. It was one of the plants cited as such in the NASA Clean Air Study."
+        },
+        {
+            "name": "artichoke flower",
+            "family": "Asteraceae",
+            "genus": "Cynara",
+            "species": "C. cardunculus",
+            "wiki": "The globe artichoke (Cynara cardunculus var. scolymus) is a variety of a species of thistle cultivated as a food. The edible portion of the plant consists of the flower buds before the flowers come into bloom. The budding artichoke flower-head is a cluster of many budding small flowers (an inflorescence), together with many bracts, on an edible base. Once the buds bloom, the structure changes to a coarse, barely edible form. Another variety of the same species is the cardoon, a perennial plant native to the Mediterranean region. Both wild forms and cultivated varieties (cultivars) exist."
+        },
+        {
+            "name": "azalea",
+            "family": "Ericaceae",
+            "genus": "Rhododendron",
+            "species": "R. tsutsusi, R. pentanthera",
+            "wiki": "Azaleas are flowering shrubs in the genus Rhododendron, particularly the former sections Tsutsuji (evergreen) and Pentanthera (deciduous). Azaleas bloom in spring, their flowers often lasting several weeks. Shade tolerant, they prefer living near or under trees. They are part of the family Ericaceae."
+        },
+        {
+            "name": "balloon flower",
+            "family": "Campanulaceae",
+            "genus": "Platycodon",
+            "species": "P. grandiflorus",
+            "wiki": "Platycodon grandiflorus (from Ancient Greek πλατύς \"wide\" and κώδων \"bell\") is a species of herbaceous flowering perennial plant of the family Campanulaceae, and the only member of the genus Platycodon. It is native to East Asia (China, Korea, Japan, and the Russian Far East). It is commonly known as balloon flower (referring to the balloon-shaped flower buds), Chinese bellflower, or platycodon."
+        },
+        {
+            "name": "barbeton daisy",
+            "family": "Asteraceae",
+            "genus": "Gerbera",
+            "species": "G. jamesonii",
+            "wiki": "Gerbera jamesonii is a species of flowering plant in the genus Gerbera. It is indigenous to South Eastern Africa and commonly known as the Barberton daisy, the Transvaal daisy, and as Barbertonse madeliefie in Afrikaans. The species is perennial and reproduces asexually. This plant produces tall colorful flowers in season. The flowers may be red, yellow, pink, or orange."
+        },
+        {
+            "name": "bearded iris",
+            "family": "Iridaceae",
+            "genus": "Iris",
+            "species": "I. × germanica",
+            "wiki": "Iris × germanica is the accepted name for a species of flowering plants in the family Iridaceae commonly known as the bearded iris or the German bearded iris. It is one of a group of hybrid origin. Iris × germanica grows up to 120 cm high and 30 cm wide. It is a European hybrid, rather than a true wild species. The roots can go up to 10 cm deep and it is a rhizomatous perennial that blooms mid to late spring. It is known to produce the isoflavone irilone. Hundreds of hybrids exist representing nearly every colour from jet black to sparkling whites, except bright scarlet. Varieties include I. × g. var. florentina and I. × g. var. germanica."
+        },
+        {
+            "name": "bee balm",
+            "family": "Lamiaceae",
+            "genus": "Monarda",
+            "species": "M. fistulosa",
+            "wiki": "Monarda is a genus of flowering plants in the mint family, Lamiaceae. The genus is endemic to North America. Common names include bee balm, horsemint, oswego tea, and bergamot, the latter inspired by the fragrance of the leaves, which is reminiscent of bergamot orange (Citrus bergamia). The genus was named for the Spanish botanist Nicolás Monardes, who wrote a book in 1574 describing plants of the New World. Monarda species include annual and perennial herbaceous plants. They grow erect to heights of 20–90 cm (8–35 in). The slender, serrated, lanceolate leaves are oppositely arranged on the stem, hairless or sparsely hairy, and about 7 to 14 centimeters long."
+        },
+        {
+            "name": "bird of paradise",
+            "family": "Strelitziaceae",
+            "genus": "Strelitzia",
+            "species": "S. nicolai, S. caudata",
+            "wiki": "Strelitzia is a genus of five species of perennial plants, native to South Africa. It belongs to the plant family Strelitziaceae. The genus is named after the duchy of Mecklenburg-Strelitz, birthplace of Queen Charlotte of the United Kingdom. A common name of the genus is bird of paradise flower / plant, because of a resemblance of its flowers to birds-of-paradise. In South Africa it is commonly known as a crane flower and is featured on the reverse of the 50 cent coin. It is the floral emblem of the City of Los Angeles; two of the species, Strelitzia nicolai and Strelitzia reginae, are frequently grown as house plants. The species S. nicolai is the largest in the genus, reaching 10 m tall, with stately white and blue flowers; the other species typically reach 2 to 3.5 m tall, except S. caudata which is a tree of a typically smaller size than S. nicolai. The leaves are large, 30–200 cm long and 10–80 cm broad, similar to a banana leaf in appearance but with a longer petiole, and arranged strictly in two ranks to form a fan-like crown of evergreen foliage. The flowers are produced in a horizontal inflorescence emerging from a stout spathe."
+        },
+        {
+            "name": "bishop of llandaff",
+            "family": "Asteraceae",
+            "genus": "Dahlia",
+            "species": "Dahlia × hortensis",
+            "wiki": "Dahlia 'Bishop of Llandaff' is a branching, tuberous tender perennial cultivar with dark eggplant-colored, almost black, foliage. This produces a stunning contrast with its scarlet flowers. The plant was first bred by Fred Treseder, a Cardiff nurseryman. It was selected by and named to honour Joshua Pritchard Hughes, Bishop of Llandaff, in 1924 and won the RHS Award of Garden Merit in 1928. The plant is about 1 m tall and flowers from June until September. As with all dahlias, frost blackens its foliage, and its tubers need to be overwintered in a dry, frost-free place. A seed strain has been produced from this plant called 'Bishops Children', they retain the dark foliage color but produce a mix of flower colors and flower shapes from single to semi-double flowers in different sizes. Plant Profile:- Height:1.1m (3&1/2 ft) Spread: 45 cm (18 in) site: Full Sun Soil: Fertile, free-draining Hardiness: Half hardy. Also comes in rich reds & purples, yellows & oranges, as well as paler shades."
+        },
+        {
+            "name": "black-eyed susan",
+            "family": "Asteraceae",
+            "genus": "Rudbeckia",
+            "species": "R. hirta",
+            "wiki": "Rudbeckia hirta, commonly called black-eyed Susan, is a North American flowering plant in the sunflower family, native to Eastern and Central North America and naturalized in the Western part of the continent as well as in China. It has now been found in all 10 Canadian Provinces and all 48 of the states in the contiguous United States. Rudbeckia hirta is one of a number of plants with the common name black-eyed Susan. Other common names for this plant include: brown-eyed Susan, brown betty, gloriosa daisy, golden Jerusalem, English bull's eye, poor-land daisy, yellow daisy, and yellow ox-eye daisy. Rudbeckia hirta is the state flower of Maryland. The plant also is a traditional Native American medicinal herb in several tribal nations; believed in those cultures to be a remedy, among other things, for colds, flu, infection, swelling and (topically, by poultice) for snake bite (although not all parts of the plant are edible). Parts of the plant have nutritional value. Other parts are not edible."
+        },
+        {
+            "name": "blackberry lily",
+            "family": "Iridaceae",
+            "genus": "Iris",
+            "species": "I. domestica",
+            "wiki": "Iris domestica, commonly known as leopard lily, blackberry lily, and leopard flower, is an ornamental plant in the Iridaceae family. The plant grows 60–90 cm tall in full sun and is often found blanketing hillsides; the flowers can range from red to orange to yellow, or mixed, and bloom in summer to early autumn (fall). The leaves grow in a fan, like those of a gladiolus. The flowers are typically orange spotted with red, although yellow-flowered varieties are in cultivation. The seed pods open in the fall, showing clusters of black seeds whose fancied resemblance to a blackberry gives the plant its common name, \"blackberry lily\". The leopard lily is a flowering perennial of Chinese origin, and is locally used in Chinese villages for its medicinal values."
+        },
+        {
+            "name": "blanket flower",
+            "family": "Asteraceae",
+            "genus": "Gaillardia",
+            "species": "",
+            "wiki": "Gaillardia (common name blanket flower) is a genus of flowering plants in the sunflower family, Asteraceae, native to North and South America. It was named after an M. Gaillard de Charentonneau, an 18th-century French magistrate who was a patron of botany. The common name may refer to the resemblance of the inflorescence to the brightly patterned blankets made by Native Americans, or to the ability of wild taxa to blanket the ground with colonies. Many cultivars have been bred for ornamental use. These are annual or perennial herbs or subshrubs, sometimes with rhizomes. The stem is usually branching and erect to a maximum height around 80 centimeters (31.5 inches)."
+        },
+        {
+            "name": "bolero deep blue",
+            "family": "Gentianaceae",
+            "genus": "Eustoma",
+            "species": "E. russellianum",
+            "wiki": "Eustoma russellianum, is a species of flowering plant in the gentian family. Its previous binomial name was Eustoma grandiflorum. Common names include Bolero Deep Blue, Texas bluebells, Texas bluebell, bluebell, showy prairie gentian, prairie gentian, and Lisianthus. Eustoma russellianum has blue-green waxy leaves and showy bell shaped flowers in blue pink or white each borne singly on an upright plant. Depending on where it grows it may present as an annual, biennial or perennial plant. It is found in the Great Plains region."
+        },
+        {
+            "name": "bougainvillea",
+            "family": "Nyctaginaceae",
+            "genus": "Bougainvillea",
+            "species": "",
+            "wiki": "Bougainvillea is a genus of thorny ornamental vines, bushes, and trees with flower-like spring leaves near its flowers. Different authors accept between four and 18 species in the genus. The vine species grow anywhere from 1 to 12 m (3 to 40 ft.) tall, scrambling over other plants with their spiky thorns. The thorns are tipped with a black, waxy substance. They are evergreen where rainfall occurs all year, or deciduous if there is a dry season. The leaves are alternate, simple ovate-acuminate, 4–13 cm long and 2–6 cm broad. The actual flower of the plant is small and generally white, but each cluster of three flowers is surrounded by three or six bracts with the bright colours associated with the plant, including pink, magenta, purple, red, orange, white, or yellow. Bougainvillea glabra is sometimes referred to as \"paper flower\" because the bracts are thin and papery. The fruit is a narrow five-lobed achene. Bougainvillea are relatively pest-free plants, but they may be susceptible to worms, snails and aphids. The larvae of some Lepidoptera species also use them as food plants, for example the giant leopard moth."
+        },
+        {
+            "name": "bromelia",
+            "family": "Bromeliaceae",
+            "genus": "Bromelia",
+            "species": "",
+            "wiki": "Bromelia is the type genus of the botanical family Bromeliaceae, subfamily Bromelioideae. Bromelia species are widespread across much of Latin America and the West Indies, and are characterized by flowers with a deeply cleft calyx. The genus is named after the Swedish medical doctor and botanist Olof Bromelius (1639-1705)."
+        },
+        {
+            "name": "buttercup flower",
+            "family": "Ranunculaceae",
+            "genus": "Ranunculus",
+            "species": "",
+            "wiki": "Buttercups are a large genus of flowering plants called Ranunculus. It has yellow, shiny petals, and grows wild in many places. It is poisonous to eat for humans and cattle, but when dry the poison is not active. There are about 200 to 600 species in this one genus. They mostly have yellow or sometimes white flowers. Buttercups include a wide variety of flower types, grouped by a plant naming system in the genus Ranunculus. Among them are the Meadow Buttercup (Ranunculus acris), Goldilocks Buttercup (R. auricomus), Creeping Buttercup (R. repens), Large White Buttercup (R. platanafolius), Celery-leaved Buttercup (R. sceleratus), Corn Buttercup (R. arvensis), Bulbous Buttercup (R. bulbosus) and Glacial Buttercup (R. glacialis). Plants of the commonly named buttercup family grow in many different variations but most can be identified by their yellow cupped flowers and free-growing habit. The plants often climb or sprawl, with leaves arranged in spirals. Some may contain leaves without stipules and flowers with many stamens."
+        },
+        {
+            "name": "californian poppy",
+            "family": "Papaveraceae",
+            "genus": "Eschscholzia",
+            "species": "E. californica",
+            "wiki": "Eschscholzia californica (California poppy, golden poppy, California sunlight, cup of gold) is a species of flowering plant in the Papaveraceae family, native to the United States and Mexico. It is an ornamental plant flowering in summer, with showy cup-shaped flowers in brilliant shades of red, orange and yellow (occasionally pink). It is also used as food or a garnish. It became the official state flower of California in 1903. It is a perennial or annual plant growing to 5–60 in (13–152 cm) tall with alternately branching glaucous blue-green foliage. The leaves are alternately divided into round, lobed segments. The flowers are solitary on long stems, silky-textured, with four petals, each petal 2 to 6 cm (0.79 to 2.36 in) long and broad; flower color ranges through yellow, orange and red (with some pinks). Flowering occurs from February to September in the northern hemisphere (spring, summer, fall). The petals close at night (or in cold, windy weather) and open again the following morning, although they may remain closed in cloudy weather. The fruit is a slender, dehiscent capsule 3 to 9 cm (1.2 to 3.5 in) long, which splits in two to release numerous small black or dark brown seeds. It survives mild winters in its native range, dying completely in colder climates."
+        },
+        {
+            "name": "camellia",
+            "family": "Theaceae",
+            "genus": "Camellia",
+            "species": "",
+            "wiki": "Camellia is a genus of flowering plants in the family Theaceae. They are found in eastern and southern Asia, from the Himalayas east to Japan and Indonesia. There are 100–300 described species, with some controversy over the exact number. There are also around 3,000 hybrids. The genus was named by Linnaeus after the Jesuit botanist Georg Joseph Kamel, who worked in the Philippines and described a species of camellia (although Linnaeus did not refer to Kamel's account when discussing the genus). Camellias are famous throughout East Asia. Of economic importance in East Asia, Southeast Asia, and the Indian subcontinent, leaves of C. sinensis are processed to create the popular beverage tea. The ornamental C. japonica, C. sasanqua and their hybrids are the source of hundreds of garden cultivars. C. oleifera produces tea seed oil, used in cooking and cosmetics."
+        },
+        {
+            "name": "canna lily",
+            "family": "Cannaceae",
+            "genus": "Canna",
+            "species": "",
+            "wiki": "Canna (or canna lily, although not a true lily) is a genus of 10 species of flowering plants. The closest living relations to cannas are the other plant families of the order Zingiberales, that is the Zingiberaceae (gingers), Musaceae (bananas), Marantaceae, Heliconiaceae, Strelitziaceae, etc. Canna is the only genus in the family Cannaceae. The APG II system of 2003 assigns it to the clade commelinids, in the monocots. Plants have large foliage and horticulturists have turned it into a large-flowered garden plant. It is also used in agriculture as a rich source of starch for human and animal consumption. Although a plant of the tropics, most cultivars have been developed in temperate climates and are easy to grow in most countries of the world as long as they receive at least 6–8 hours average sunlight during the summer, and are moved to a warm location for the winter."
+        },
+        {
+            "name": "canterbury bells",
+            "family": "Campanulaceae",
+            "genus": "Campanula",
+            "species": "C. medium",
+            "wiki": "Campanula medium, common name Canterbury bells, also known as the bell flower, is an annual or biennial flowering plant of the genus Campanula, belonging to the family Campanulaceae. In floriography, it represents gratitude, or faith and constancy. Campanula medium reaches approximately 60–80 centimetres (24–31 in) in height. This biennial herbaceous plant forms rosettes of leaves in the first year, stems and flowers in the second one. The stem is erect, robust, reddish-brown and bristly hairy. The basal leaves are stalked and lanceolate to elliptical and 12–15 centimetres (4.7–5.9 in) long with serrated leaf edge. The upper leaves are smaller, lanceolate and sessile, almost embracing the stem. The flowers are arranged in a racemose inflorescence of extremely long lasting blooms. These attractive bell-shaped flowers are short-stalked, large and hermaphroditic, with different shades of violet-blue or rarely white. The corolla has five fused petals with lightly bent lobes (known as a coronate flower type). The flowering period extends from May to July. The hermaphroditic flowers are either self-fertilized (autogamy) or pollinated by insects (bees, butterflies, etc.)(entomogamy). The seeds ripen from Aug to September and are dispersed by gravity alone."
+        },
+        {
+            "name": "cape flower",
+            "family": "Amaryllidaceae",
+            "genus": "Nerine",
+            "species": "N. bowdenii",
+            "wiki": "Nerine bowdenii is a species of flowering plant in the family Amaryllidaceae. It is an herbaceous bulbous perennial, growing to 45 cm (18 in) tall by 8 cm (3 in), with strap-shaped leaves and large umbels of lily-like pink flowers in late summer and autumn. The common names of the species are Cornish lily, Cape flower, Guernsey lily, and Bowden lily. However, it is neither a true lily nor from Cornwall or Guernsey, but originates from South Africa (Eastern Cape, KwaZulu Natal, Free State, Drakensberg Mountains). Confusingly the name “Guernsey lily” is also applied to a related species, Nerine sarniensis. N. bowdenii bulbs are 12 to 14 centimetres (4.7 to 5.5 in) in circumference. The bulbs are \"shaped like old-fashioned Chianti bottles\". The plant has eight or more faintly-scented bright pink flowers with frilly tips, resembling finely-cut lilies. Because the leaves do not appear until spring, the species can tolerate lower temperatures than most species in the genus Nerine."
+        },
+        {
+            "name": "carnation",
+            "family": "Caryophyllaceae",
+            "genus": "Dianthus",
+            "species": "D. caryophyllus",
+            "wiki": "Dianthus caryophyllus, the carnation or clove pink, is a species of Dianthus. It is probably native to the Mediterranean region but its exact range is unknown due to extensive cultivation for the last 2,000 years. It is an herbaceous perennial plant growing to 80 cm tall. The leaves are glaucous greyish green to blue-green, slender, up to 15 cm long. The flowers are produced singly or up to five together in a cyme; they are 3–5 cm diameter, and sweetly scented; the original natural flower colour is bright pinkish-purple, but cultivars of other colours, including red, white, yellow and green, have been developed. Some fragrance-less carnation cultivars are often used as boutonnieres for men. For the most part, carnations express love, fascination, and distinction, though there are many variations dependent on colour."
+        },
+        {
+            "name": "cautleya spicata",
+            "family": "",
+            "genus": "",
+            "species": "",
+            "wiki": "Cautleya spicata is a perennial herbaceous plant in the family Zingiberaceae (the gingers). It is found in the Himalayas through to China (Yunnan). It is cultivated as an ornamental garden plant, hardy to a few degrees of frost. What appear to be stems in Cautleya species are actually \"pseudostems\" formed by the tightly wrapped bases or sheaths of the leaves. In C. gracilis, the pseudostems are 30–60 cm (12–24 in) tall. There are 4–7 leaves with a stalk (petiole) 1.5–2 cm (0.6–0.8 in) long between the sheath that forms part of the pseudostem and the blade which is free. The leaf blades are 12–30 cm (5–12 in) long by 1.6–4 cm (0.6–1.6 in) wide. The inflorescence appears in July in the native habitat of the species and takes the form of a dense spike about 7–12 cm (3–5 in) long. Each flower has a complex structure. A red bract surrounds the sepals, which are largely fused, forming a tubular calyx, split along one side. The calyx is shorter than the bract, being 1.5–2.5 cm (0.6–1.0 in) long. Inside the calyx, the three petals are fused at the base to form a tube about the same length as the calyx. At the end of the tube the petals form three lobes, 2–2.5 cm (0.8–1.0 in) long. Inside the petals are three petal-like structures (staminodes). The two side staminodes are upright, more-or-less the same size as the central petal lobe. The lip or labellum is about 2.5 cm (1.0 in) long, bent downwards and divided into two at the tip. The single stamen has a two-pronged spur at base of the anther, formed by connective tissue. The seed capsule is red when ripe, splitting to reveal the black seeds which have a white aril."
+        },
+        {
+            "name": "clematis",
+            "family": "Ranunculaceae",
+            "genus": "Clematis",
+            "species": "",
+            "wiki": "Clematis is a genus of about 300 species within the buttercup family, Ranunculaceae. Their garden hybrids have been popular among gardeners, beginning with Clematis × jackmanii, a garden standby since 1862; more hybrid cultivars are being produced constantly. They are mainly of Chinese and Japanese origin. Most species are known as clematis in English, while some are also known as traveller's joy, a name invented for the sole British native, C. vitalba, by the herbalist John Gerard; virgin's bower for C. terniflora, C. virginiana, and C. viticella; old man's beard, applied to several with prominent seedheads; leather flower for those with fleshy petals; or vase vine for the North American Clematis viorna."
+        },
+        {
+            "name": "colt's foot",
+            "family": "Asteraceae",
+            "genus": "Tussilago",
+            "species": "T. farfara",
+            "wiki": "Tussilago farfara, commonly known as coltsfoot, is a plant in the groundsel tribe in the daisy family Asteraceae, native to Europe and parts of western and central Asia. The name \"tussilago\" is derived from the Latin tussis, meaning cough, and ago, meaning to cast or to act on. It has had uses in traditional medicine, but the discovery of toxic pyrrolizidine alkaloids in the plant has resulted in liver health concerns. Tussilago farfara is the only accepted species in the genus Tussilago, although more than two dozen other species have at one time or another been considered part of this group. Coltsfoot is a perennial herbaceous plant that spreads by seeds and rhizomes. Tussilago is often found in colonies of dozens of plants. The flowers, which superficially resemble dandelions, open on leafless stems in early spring before the leaves appear. The leaves, which resemble a colt's foot in outline appear after the flowers have set seed and wither and die in the early summer. The plant is typically 10–30 cm in height. The leaves have angular teeth on their margins."
+        },
+        {
+            "name": "columbine flower",
+            "family": "Ranunculaceae",
+            "genus": "Aquilegia",
+            "species": "",
+            "wiki": "Aquilegia (common names: granny's bonnet, columbine) is a genus of about 60–70 species of perennial plants that are found in meadows, woodlands, and at higher altitudes throughout the Northern Hemisphere, known for the spurred petals of their flowers. The leaves of this plant are compound and the flowers contain five sepals, five petals and five pistils. The fruit is a follicle which holds many seeds and is formed at the end of the pistils. Underneath the flower are spurs which contain nectar, mainly consumed by long-beaked birds such as hummingbirds."
+        },
+        {
+            "name": "common dandelion",
+            "family": "Asteraceae",
+            "genus": "Taraxacum",
+            "species": "T. officinale",
+            "wiki": "Taraxacum officinale, the common dandelion (often simply called \"dandelion\"), is a flowering herbaceous perennial plant of the family Asteraceae (Compositae). It can be found growing in temperate regions of the world, in lawns, on roadsides, on disturbed banks and shores of water ways, and other areas with moist soils. T. officinale is considered a weed, especially in lawns and along roadsides, but it is sometimes used as a medical herb and in food preparation. Common dandelion is well known for its yellow flower heads that turn into round balls of silver tufted fruits that disperse in the wind. These balls are called \"blowballs\" or \"clocks\" in both British and American English. Taraxacum officinale grows from generally unbranched taproots and produces one to more than ten stems that are typically 5–40 cm (2.0–15.7 in) tall, but sometimes up to 70 cm (28 in) tall. The stems can be tinted purplish, they are upright or lax, and produce flower heads that are held as tall or taller than the foliage. The foliage may be upright-growing or horizontally spreading; the leaves have petioles that are either unwinged or narrowly winged. The stems can be glabrous or sparsely covered with short hairs. Plants have milky latex and the leaves are all basal; each flowering stem lacks bracts and has one single flower head. The yellow flower heads lack receptacle bracts and all the flowers, which are called florets, are ligulate and bisexual. In many lineages, fruits are mostly produced by apomixis, notwithstanding the flowers are visited by many types of insects. The leaves are 5–45 cm (2.0–17.7 in) long and 1–10 cm (0.39–3.94 in) wide, and are oblanceolate, oblong, or obovate in shape, with the bases gradually narrowing to the petiole. The leaf margins are typically shallowly lobed to deeply lobed and often lacerate or toothed with sharp or dull teeth."
+        },
+        {
+            "name": "corn poppy",
+            "family": "Papaveraceae",
+            "genus": "Papaver",
+            "species": "P. rhoeas",
+            "wiki": "Papaver rhoeas (common names include common poppy, corn poppy, corn rose, field poppy, Flanders poppy or red poppy) is an annual herbaceous species of flowering plant in the poppy family, Papaveraceae. This poppy is notable as an agricultural weed (hence the common names including \"corn\" and \"field\") and after World War I as a symbol of dead soldiers. Before the advent of herbicides, P. rhoeas sometimes was abundant in agricultural fields. Although the corn poppy (and its cultivars such as the Shirley poppy) and the California poppy are widely grown in gardens, only Papaver somniferum, the opium poppy, has significant farm production. Papaver rhoeas is a variable, erect annual, forming a long-lived soil seed bank that can germinate when the soil is disturbed. In the northern hemisphere it generally flowers in late spring, (between May and October in the UK,) but if the weather is warm enough other flowers frequently appear at the beginning of autumn. It grows up to about 70 cm in height. The stems hold single flowers, which are large and showy, 50 to 100mm across, with four petals that are vivid red, most commonly with a black spot at their base. The petals slightly overlap each other. The plant can produce up to 400 flowers in a warm season, despite the flowers only lasting one day. The flower stem is usually covered with coarse hairs that are held at right angles to the surface, helping to distinguish it from Papaver dubium in which the hairs are more usually appressed (i.e. held close to the stem). The capsules are hairless, obovoid (egg-shaped), less than twice as tall as they are wide, with a stigma at least as wide as the capsule. Like many other species of Papaver, the plant exudes white to yellowish latex when the tissues are broken. Not all corn poppies that are available commercially have red flowers. Selective breeding has resulted in cultivars in yellow, orange, pink, and white. The Shirley Poppy is the most known cultivar. A very pale speckled variety, derived from the Shirley, is also available."
+        },
+        {
+            "name": "cyclamen",
+            "family": "Primulaceae",
+            "genus": "Cyclamen",
+            "species": "",
+            "wiki": "Cyclamen is a genus of 23 species of perennial flowering plants in the family Primulaceae. Cyclamen species are native to Europe and the Mediterranean Basin east to Iran, with one species in Somalia. They grow from tubers and are valued for their flowers with upswept petals and variably patterned leaves. It was traditionally classified in the family Primulaceae, was reclassified in the family Myrsinaceae in 2000, and finally, in 2009 with the introduction of the APG III system, was returned to the subfamily Myrsinoideae within the family Primulaceae. Cyclamens have a tuber, from which the leaves, flowers and roots grow. In most species, leaves come up in autumn, grow through the winter, and then die in spring, then the plant goes dormant through the dry Mediterranean summer."
+        },
+        {
+            "name": "daffodil",
+            "family": "Amaryllidaceae",
+            "genus": "Narcissus",
+            "species": "",
+            "wiki": "Narcissus is a genus of predominantly spring perennial plants of the Amaryllidaceae (amaryllis) family. Various common names including daffodil, daffadowndilly, narcissus, and jonquil are used to describe all or some members of the genus. Narcissus has conspicuous flowers with six petal-like tepals surmounted by a cup- or trumpet-shaped corona. The flowers are generally white or yellow (also orange or pink in garden varieties), with either uniform or contrasting coloured tepals and corona. Narcissus were well known in ancient civilisation, both medicinally and botanically, but formally described by Linnaeus in his Species Plantarum (1753). The genus is generally considered to have about ten sections with approximately 50 species. The number of species has varied, depending on how they are classified, due to similarity between species and hybridization. The genus arose some time in the Late Oligocene to Early Miocene epochs, in the Iberian peninsula and adjacent areas of southwest Europe. The exact origin of the name Narcissus is unknown, but it is often linked to a Greek word for intoxicated (narcotic) and the myth of the youth of that name who fell in love with his own reflection. The English word \"daffodil\" appears to be derived from \"asphodel\", with which it was commonly compared. The species are native to meadows and woods in southern Europe and North Africa with a center of diversity in the Western Mediterranean, particularly the Iberian peninsula. Both wild and cultivated plants have naturalised widely, and were introduced into the Far East prior to the tenth century. Narcissi tend to be long-lived bulbs, which propagate by division, but are also insect-pollinated. Known pests, diseases and disorders include viruses, fungi, the larvae of flies, mites and nematodes. Some Narcissus species have become extinct, while others are threatened by increasing urbanisation and tourism. Historical accounts suggest narcissi have been cultivated from the earliest times, but became increasingly popular in Europe after the 16th century and by the late 19th century were an important commercial crop centred primarily on the Netherlands. Today narcissi are popular as cut flowers and as ornamental plants in private and public gardens. The long history of breeding has resulted in thousands of different cultivars. For horticultural purposes, narcissi are classified into divisions, covering a wide range of shapes and colours. Like other members of their family, narcissi produce a number of different alkaloids, which provide some protection for the plant, but may be poisonous if accidentally ingested. This property has been exploited for medicinal use in traditional healing and has resulted in the production of galantamine for the treatment of Alzheimer's dementia. Long celebrated in art and literature, narcissi are associated with a number of themes in different cultures, ranging from death to good fortune, and as symbols of spring. The daffodil is the national flower of Wales and the symbol of cancer charities in many countries. The appearance of the wild flowers in spring is associated with festivals in many places."
+        },
+        {
+            "name": "desert rose",
+            "family": "Apocynaceae",
+            "genus": "Adenium",
+            "species": "",
+            "wiki": "Adenium is a genus of flowering plants in the Apocynum family, Apocynaceae, first described as a genus in 1819. It is native to Africa and the Arabian Peninsula. Adenium obesum is grown as a houseplant in temperate regions. Numerous hybrids have been developed. Adeniums are appreciated for their colorful flowers, but also for their unusual, thick caudices. They can be grown for many years in a pot and are commonly used for bonsai. Because seed-grown plants are not genetically identical to the mother plant, desirable varieties are commonly propagated by grafting. Genetically identical plants can also be propagated by cutting. However, cutting-grown plants do not tend to develop a desirable thick caudex as quickly as seed-grown plants. The sap of Adenium boehmianum, A. multiflorum, and A. obesum contains toxic cardiac glycosides and is used as arrow poison throughout Africa for hunting large game."
+        },
+        {
+            "name": "english marigold",
+            "family": "Asteraceae",
+            "genus": "Calendula",
+            "species": "C. officinalis",
+            "wiki": "Calendula officinalis, the pot marigold, ruddles, common marigold or Scotch marigold, is a plant in the genus Calendula of the family Asteraceae. It is probably native to southern Europe, though its long history of cultivation makes its precise origin unknown, and it may possibly be of garden origin. It is also widely naturalised further north in Europe (as far as southern England) and elsewhere in warm temperate regions of the world. Calendula officinalis is a short-lived aromatic herbaceous perennial, growing to 80 cm (31 in) tall, with sparsely branched lax or erect stems. The leaves are oblong-lanceolate, 5–17 cm (2–7 in) long, hairy on both sides, and with margins entire or occasionally waved or weakly toothed. The inflorescences are yellow, comprising a thick capitulum or flowerhead 4–7 cm diameter surrounded by two rows of hairy bracts; in the wild plant they have a single ring of ray florets surrounding the central disc florets. The disc florets are tubular and hermaphrodite, and generally of a more intense orange-yellow colour than the female, tridentate, peripheral ray florets. The flowers may appear all year long where conditions are suitable. The fruit is a thorny curved achene. Calendulas are used as food plants by the larvae of some Lepidoptera species including Cabbage moth, Gothic moth, Large yellow underwing, and Setaceous Hebrew character."
+        },
+        {
+            "name": "fire lily",
+            "family": "Liliaceae",
+            "genus": "Lilium",
+            "species": "L. bulbiferum",
+            "wiki": "Lilium bulbiferum, common names orange lily, fire lily and tiger lily, is a herbaceous European lily with underground bulbs, belonging to the Liliaceae. The Latin name bulbiferum of this species, meaning \"bearing bulbs\", refers to the secondary bulbs on the stem of the nominal subspecies. Lilium bulbiferum reaches on average 20–90 centimetres (7.9–35.4 in) of height, with a maximum of 120 centimetres (47 in). The bulbs are ovoid, with whitish large and pointed scales and can reach about 1.5 centimetres (0.59 in) of diameter. The stem is erect, the leaves are lanceolate, up to 10 centimeters long. The inflorescence has one to five short-haired flowers. They are hermaphroditic and scentless, have six upright tepals, the outer are slightly narrower than the inner ones. The flowers can reach 4–6 centimeters in length and are bright yellow-orange with reddish-brown dots. The stamens are erect, about half as long as the tepals, with red anthers. The style is orange, 35 millimetres (1.4 in) of height. The flowering period extends from May through July. There are two varieties, L. b. var. croceum (Chaix) Baker in the western part of the range, and L. b. var. bulbiferum in its eastern part. Only the last one always produces secondary aerial bulbs (bulbils) in the axils of the upper leaves. These bulbils fall to the ground and mature after two to three years. When manually separated from the stem they can easily used for propagating the plant. The dwarf plants from the Maritime Alps, formerly described as var. chaixii (Elwes) Stoker, and the large plants from the region of Naples, formerly described as var. giganteum N. Terracc., are now considered as local variants of var. croceum."
+        },
+        {
+            "name": "foxglove",
+            "family": "Plantaginaceae",
+            "genus": "Digitalis",
+            "species": "",
+            "wiki": "Digitalis is a genus of about 20 species of herbaceous perennials, shrubs, and biennials commonly called foxgloves. This genus was traditionally placed in the figwort family Scrophulariaceae, but recent phylogenetic research has placed it in the much enlarged family Plantaginaceae. This genus is native to western and southwestern Europe, western and central Asia and northwestern Africa. The scientific name means \"finger-like\" and refers to the ease with which a flower of Digitalis purpurea can be fitted over a human fingertip. The flowers are produced on a tall spike, are tubular, and vary in colour with species, from purple to pink, white, and yellow. The best-known species is the common foxglove, Digitalis purpurea. This biennial plant is often grown as an ornamental plant due to its vivid flowers which range in colour from various purple tints through pink, light grey, and purely white. The flowers can also possess various marks and spottings. The first year of growth produces only the stem with its long, basal leaves. During the second year of the plant's life, a long, leafy stem from 50 to 255 centimetres tall grows atop the roots of healthy plants. Other garden-worthy species include D. ferruginea, D. grandiflora, D. lutea and D. parviflora. Larvae of the foxglove pug, a moth, consume the flowers of the common foxglove for food. Other species of Lepidoptera eat the leaves, including the lesser yellow underwing. The term digitalis is also used for drug preparations that contain cardiac glycosides, particularly one called digoxin, extracted from various plants of this genus."
+        },
+        {
+            "name": "frangipani",
+            "family": "Apocynaceae",
+            "genus": "Plumeria",
+            "species": "",
+            "wiki": "Plumeria is a genus of flowering plants in the dogbane family, Apocynaceae. Most species are deciduous shrubs or small trees. The species variously are indigenous to Mexico, Central America, and the Caribbean, and as far south as Brazil, but are grown as cosmopolitan ornamentals in warm regions. Common names for plants in the genus vary widely according to region, variety, and whim, but Frangipani or variations on that theme are the most common. Plumeria also is used directly as a common name, especially in horticultural circles. Plumeria flowers are most fragrant at night in order to lure sphinx moths to pollinate them. The flowers yield no nectar, however, and simply trick their pollinators. The moths inadvertently pollinate them by transferring pollen from flower to flower in their fruitless search for nectar. Insects or human pollination can help create new varieties of plumeria. Plumeria trees from cross pollinated seeds may show characteristics of the mother tree or their flowers might just have a totally new look. Plumeria species may be propagated easily by cutting leafless stem tips in spring. Cuttings are allowed to dry at the base before planting in well-drained soil. Cuttings are particularly susceptible to rot in moist soil. One optional method to root cuttings is applying rooting hormone to the clean fresh-cut end to enable callusing. Plumeria cuttings could also be propagated by grafting a cutting to an already rooted system. There are more than 300 named varieties of Plumeria."
+        },
+        {
+            "name": "fritillary",
+            "family": "Liliaceae",
+            "genus": "Fritillaria",
+            "species": "",
+            "wiki": "Fritillaria (fritillaries) is a genus of spring flowering herbaceous bulbous perennial plants in the lily family (Liliaceae). The type species, Fritillaria meleagris, was first described in Europe in 1571, while other species from the Middle East and Asia were also introduced to Europe at that time. The genus has about 130–140 species divided among eight subgenera. The flowers are usually solitary, nodding and bell-shaped with bulbs that have fleshy scales, resembling those of lilies. They are known for their very large genome size and genetically are very closely related to lilies. They are native to the temperate regions of the Northern hemisphere, from the Mediterranean and North Africa through Eurasia and southwest Asia to western North America. Many are endangered due to enthusiastic picking. The name Fritillaria is thought to refer to the checkered pattern of F. meleagris, resembling a box in which dice were carried. Fritillaries are commercially important in horticulture as ornamental garden plants and also in traditional Chinese medicine, which is also endangering a number of species. Fritillaria flowers have been popular subjects for artists to depict and as emblems of regions and organisations. Flowers often solitary and nodding, but some form umbels or have racemes with many flowers. Perianth campanulate (bell or cup shaped) and its segments usually tesselated with squares of alternating light and dark colours. Nectaries are large and well developed, and in most species (with the exception of Rhinopetalum), are linear to lanceolate or ovate and weakly impressed upon the tepals."
+        },
+        {
+            "name": "garden phlox",
+            "family": "Polemoniaceae",
+            "genus": "Phlox",
+            "species": "",
+            "wiki": "Phlox is a genus of 67 species of perennial and annual plants in the family Polemoniaceae. They are found mostly in North America (one in Siberia) in diverse habitats from alpine tundra to open woodland and prairie. Some flower in spring, others in summer and fall. Flowers may be pale blue, violet, pink, bright red, or white. Many are fragrant. It attracts hummingbirds, and butterflies. The name is derived from the Greek word phlox meaning flame in reference to the intense flower colors of some varieties. Fertilized flowers typically produce one relatively large seed. The fruit is a longitudinally dehiscent capsule with three or more valves that sometimes separate explosively. Some species such as P. paniculata (garden phlox) grow upright, while others such as P. subulata (moss phlox, moss pink, mountain phlox) grow short and matlike. Paniculata or tall phlox, is a native American wildflower that is native from New York to Iowa south to Georgia, Mississippi and Arkansas. It blooms from July to September."
+        },
+        {
+            "name": "gaura",
+            "family": "Onagraceae",
+            "genus": "Gaura",
+            "species": "",
+            "wiki": "Gaura is a genus of flowering plants in the family Onagraceae, native to North America. The genus includes many species known commonly as beeblossoms. Recent genetic research has shown that the genus is paraphyletic unless the monotypic genus Stenosiphon is included within Gaura, increasing the number of species in the genus to 22. They are annual, biennial or perennial herbaceous plants; most are perennials with sturdy rhizomes, often forming dense thickets, crowding or shading out other plant species. They have a basal rosette of leaves, with erect or spreading flowering stems up to 2 m (rarely more) tall, leafy on the lower stem, branched and leafless on the upper stem. The flowers have four (rarely three) petals; they are zygomorphic, with all the petals directed somewhat upwards. The fruit is an indehiscent nut-like body containing reddish-brown seeds. It reproduces via seeds and also by rhizome growth. Several species of Gaura are regarded as noxious weeds, especially in disturbed or overgrazed areas where it easily takes hold. They can become a nuisance in situations involving disturbed habitat, such as trampled rangeland and clearings. Efforts to control Gaura focus mainly on prevention of misuse of land. There is no biological control method for plants of genus Gaura, and removing existing infestations is difficult, due in large part to the plants' ability to reproduce from bits of rhizome left in the ground. Despite the poor reputation of plants of this genus, some species are cultivated as garden plants, such as G. lindheimeri (White Gaura)."
+        },
+        {
+            "name": "gazania",
+            "family": "Asteraceae",
+            "genus": "Gazania",
+            "species": "",
+            "wiki": "Gazania is a genus of flowering plants in the family Asteraceae, native to Southern Africa. They produce large, daisy-like composite flowerheads in brilliant shades of yellow and orange, over a long period in summer. They are often planted as drought-tolerant groundcover. Gazania species are grown for the brilliant colour of their flowerheads which appear in the late spring and are often in bloom throughout the summer into autumn. Gazania is a member of the tribe Arctotideae and the subtribe Gorteriinae. Within the subtribe it is close to Hirpicium and Gorteria. Many of the species of Gazania are hard to distinguish and the number of species assigned to the genus has varied widely from one author to another. They prefer a sunny position and are tolerant of dryness and poor soils."
+        },
+        {
+            "name": "geranium",
+            "family": "Geraniaceae",
+            "genus": "Geranium",
+            "species": "",
+            "wiki": "Geranium is a genus of 422 species of flowering annual, biennial, and perennial plants that are commonly known as the cranesbills. They can grow as a signle flower or a bunch of connected flowers. They are found throughout the temperate regions of the world and the mountains of the tropics, but mostly in the eastern part of the Mediterranean region. The long, palmately cleft leaves are broadly circular in form. The flowers have five petals and are coloured white, pink, purple or blue, often with distinctive veining. Geraniums will grow in any soil as long as it is not waterlogged. Propagation is by semiripe cuttings in summer, by seed, or by division in autumn or spring. Geraniums are eaten by the larvae of some Lepidoptera species including brown-tail, ghost moth, and mouse moth. At least several species of Geranium are gynodioecious. The species Geranium viscosissimum (sticky geranium) is considered to be protocarnivorous. The genus name is derived from the Greek γέρανος (géranos) or γερανός (geranós) ‘crane’. The English name ‘cranesbill’ derives from the appearance of the fruit capsule of some of the species. Species in the genus Geranium have a distinctive mechanism for seed dispersal. This consists of a beak-like column which springs open when ripe and casts the seeds some distance. The fruit capsule consists of five cells, each containing one seed, joined to a column produced from the centre of the old flower. The common name ‘cranesbill’ comes from the shape of the unsprung column, which in some species is long and looks like the bill of a crane. However, many species in this genus do not have a long beak-like column."
+        },
+        {
+            "name": "giant white arum lily",
+            "family": "Araceae",
+            "genus": "Zantedeschia",
+            "species": "",
+            "wiki": "Zantedeschia is a genus of 8 species of herbaceous, perennial, flowering plants in the family Araceae, native to southern Africa from South Africa north to Malawi. The genus has been introduced on all continents except Antarctica. Common names include arum lily for Z. aethiopica and calla and calla lily for Z. elliottiana and Z. rehmannii, although members of the genus are neither true lilies of Liliaceae, true Arums, or true Callas (related genera in Araceae). They are also often confused with Anthurium. The colourful flowers and leaves of both species and cultivars are greatly valued and commonly grown as ornamental plants. All species are endemic to central and southern Africa, from Nigeria to Tanzania and South Africa. Z. aethiopica grows naturally in marshy areas and is only deciduous when water becomes scarce. It grows continuously when watered and fed regularly and can survive periods of minor frosts. Z. aethiopica is a very strong and sturdy plant, being able to grow in many soils and habitats, multiplying by rhizome-offsets; it is naturalised and regarded as a weed throughout much of the world. Z. odorata is a rare species, resembling Z. aethiopica, but deciduous and smelling like freesia, endemic to a few localities in South Africa. Z. albomaculata is a widespread and variable species, growing from South Africa north to Kenya, varying in shades of white to cream and pink to orange-shades. Z. jucunda and Z. pentlandii are rare species with large yellow showy flowers. Z. rehmannii is a pink-flowered species with sword shaped leaves. Z. elliotiana is known from horticultural sources only and is probably of hybrid origin."
+        },
+        {
+            "name": "globe flower",
+            "family": "Ranunculaceae",
+            "genus": "Trollius",
+            "species": "",
+            "wiki": "Trollius is a genus of about 30 species of plants in the family Ranunculaceae, closely related to Ranunculus. The common name of some species is globeflower or globe flower. Native to the cool temperate regions of the Northern Hemisphere, with the greatest diversity of species in Asia, trollius usually grow in heavy, wet clay soils. They are mostly herbaceous perennials, produce numerous fibrous roots, with bright yellow flowers, though some have orange to lilac coloured flowers. The name \"globe flower\" refers to the petals of T. europaeus and T. × cultorum which are curved over the top of the flower, forming a globe. But T. pumilus has flatter flowers, and T. chinensis has open flowers with prominent stamens. All trollius species are poisonous to cattle and other livestock when fresh, but their acrid taste means they are usually left uneaten. They are, however, used as food plants by the larvae of some Lepidoptera species including Silver-ground Carpet. Some species are popular ornamental flowers in horticulture, with several cultivars selected for large and brightly coloured flowers. The hybrid T. × cultorum in particular is a source of several garden cultivars, including 'Superbus', which has gained the Royal Horticultural Society's Award of Garden Merit."
+        },
+        {
+            "name": "globe thistle",
+            "family": "Asteraceae",
+            "genus": "Echinops",
+            "species": "E. bannaticus",
+            "wiki": "Echinops bannaticus, known as blue globe-thistle, is a species of flowering plant in the sunflower family, native to southeastern Europe. It is an herbaceous perennial thistle, growing to 120 cm (47 in), with prickly foliage and spherical blue flower heads in summer. The Latin specific epithet bannaticus refers to the Banat, a region in Central Europe (now split between Romania, Hungary, and Serbia) where the plant is found."
+        },
+        {
+            "name": "grape hyacinth",
+            "family": "Asparagaceae",
+            "genus": "Muscari",
+            "species": "",
+            "wiki": "Muscari is a genus of perennial bulbous plants native to Eurasia that produce spikes of dense, most commonly blue, urn-shaped flowers resembling bunches of grapes in the spring. The common name for the genus is grape hyacinth (a name which is also used for the related genera Leopoldia and Pseudomuscari, which were formerly included in Muscari), but they should not be confused with hyacinths. In the United States, they are also commonly referred to as bluebells, though certain regions reserve this name for bluebonnets instead. A number of species of Muscari are used as ornamental garden plants. Some species are among the earliest garden flowers to bloom in the spring. They are planted as bulbs and tend to multiply quickly (naturalise) when planted in good soils. They prefer well drained sandy soil, that is acid to neutral and not too rich. Naturally found in woodlands or meadows, they are commonly cultivated in lawns, borders, rock gardens and containers. They require little feeding or watering in the summer, and sun or light shade."
+        },
+        {
+            "name": "great masterwort",
+            "family": "Apiaceae",
+            "genus": "Astrantia",
+            "species": "A. major",
+            "wiki": "Astrantia major, common name great masterwort, is a species of flowering plant in the family Apiaceae, native to central and eastern Europe. Growing to 90 cm (35 in) tall by 45 cm (18 in) broad, it is an herbaceous perennial, much used in gardens. Astrantia major reaches on average 60 centimetres (24 in) of height. The stem is erect and glabrous, with little branches and few leaves. The basal leaves have a long petiole 10–20 centimetres (3.9–7.9 in), 3 to 7 lobes and toothed segments. Size: 8–15 centimetres (3.1–5.9 in). The cauline leaves are generally two, sessile, amplexicaul and lanceolate-shaped with a trilobed apex. The inflorescence is umbrella-shaped, with 2–3 centimetres (0.79–1.18 in) of diameter. The floral bracts are numerous (10 - 20), 10–18 millimetres (0.39–0.71 in) long, reddish (sometimes white) with acuminate apex. The small flowers are greenish-white with reddish shades. The central ones are hermaphrodite, while the external ones are male. The petals are five, white (or slightly reddened), while the stamens are five and much longer. Size of the flowers: about 1 mm. The flowering period extends from June through September."
+        },
+        {
+            "name": "hard-leaved pocket orchid",
+            "family": "Orchidaceae",
+            "genus": "Paphiopedilum",
+            "species": "P. micranthum",
+            "wiki": "Paphiopedilum micranthum is commonly known as the Silver Slipper Orchid or Hard-leaved Pocket Orchid. It blooms during late winter to early summer with one flower per inflorescence. As opposed to its close sibling Paph. malipoense, the flowers of Paph. micranthum do not have fragrance. Paphiopedilum micranthum is found from northern Vietnam to western and northern Guangxi, southeastern Yunnan and western Guizhou (China), at elevations of 360 to 1600 meters. The plant is found on cliffs and in crevices which contain leaf litter, limestone, and clay. The area is subjected to fog in the winter and heavy rain from late spring to summer."
+        },
+        {
+            "name": "hawaiian hibiscus",
+            "family": "Malvaceae",
+            "genus": "Hibiscus",
+            "species": "",
+            "wiki": "Hawaiian hibiscus are seven species (H. arnottianus, H. brackenridgei, H. clayi, H. furcellatus, H. kokio, H. tiliaceus, H. waimeae) of hibiscus regarded as native to Hawaii. The yellow hibiscus is Hawaii's state flower. Although tourists regularly associate the hibiscus flower within experiences visiting the US state of Hawaii, and the plant family Malvaceae includes a relatively large number of species that are native to the Hawaiian Islands, those flowers regularly observed by tourists are generally not the native hibiscus flowers. Most commonly grown as ornamental plants in the Islands are the Chinese hibiscus (Hibiscus rosa-sinensis) and its numerous hybrids. The native plants in the genus Hibiscus in Hawaii are thought to have derived from four independent colonization events for the five endemic species (four closely related species plus the yellow-flowered species) and one each for the two indigenous species."
+        },
+        {
+            "name": "hibiscus",
+            "family": "Malvaceae",
+            "genus": "Hibiscus",
+            "species": "",
+            "wiki": "Hibiscus is a genus of flowering plants in the mallow family, Malvaceae. The genus is quite large, comprising several hundred species that are native to warm temperate, subtropical and tropical regions throughout the world. Member species are renowned for their large, showy flowers and those species are commonly known simply as \"hibiscus\", or less widely known as rose mallow. The genus includes both annual and perennial herbaceous plants, as well as woody shrubs and small trees. The generic name is derived from the Greek name ἰβίσκος (hibiskos) which Pedanius Dioscorides gave to Althaea officinalis (c. 40–90 AD). Several species are widely cultivated as ornamental plants, notably Hibiscus syriacus and Hibiscus rosa-sinensis. A tea made from hibiscus flowers is known by many names around the world and is served both hot and cold. The beverage is known for its red color, tart flavor, and vitamin C content. The leaves are alternate, ovate to lanceolate, often with a toothed or lobed margin. The flowers are large, conspicuous, trumpet-shaped, with five or more petals, color from white to pink, red, orange, peach, yellow or purple, and from 4–18 cm broad. Flower color in certain species, such as H. mutabilis and H. tiliaceus, changes with age. The fruit is a dry five-lobed capsule, containing several seeds in each lobe, which are released when the capsule dehisces (splits open) at maturity. It is of red and white colours. It is an example of complete flowers."
+        },
+        {
+            "name": "hippeastrum",
+            "family": "Amaryllidaceae",
+            "genus": "Hippeastrum",
+            "species": "",
+            "wiki": "Hippeastrum is a genus of about 90 species and over 600 hybrids and cultivars of perennial herbaceous bulbous plants. They generally have large fleshy bulbs and tall broad leaves, generally evergreen, and large red or purple flowers. Hippeastrum is a genus in the family Amaryllidaceae (subfamily Amaryllidoideae, tribe Hippeastreae, and subtribe Hippeastrineae) The name Hippeastrum, given to it by William Herbert, means \"Knight's-star-lily\", although precisely what Herbert meant by the name is not certain. For many years there was confusion among botanists over the generic names Amaryllis and Hippeastrum, one result of which is that the common name \"amaryllis\" is mainly used for cultivars of this genus, often sold as indoor flowering bulbs particularly at Christmas in the northern hemisphere. By contrast the generic name Amaryllis applies to bulbs from South Africa, usually grown outdoors. The genus is native to tropical and subtropical regions of the Americas from Argentina north to Mexico and the Caribbean. Reproduction is generally by allogamy (cross-pollination) and Hippeastrum may be propagated by seed or offset bulbils (bulblets), although commercial ventures use in vitro techniques, or splitting of the bulb into sections. The genus has been intensely bred and cultivated since the early nineteenth century to produce large colourful showy flowers. In temperate climes these can be placed outside in the summer, and after a dormancy period, be induced to rebloom inside in the winter."
+        },
+        {
+            "name": "japanese anemone",
+            "family": "Ranunculaceae",
+            "genus": "Anemone",
+            "species": "A. hupehensis",
+            "wiki": "Anemone hupehensis, Anemone hupehensis var. japonica, and Anemone × hybrida (commonly known as the Chinese anemone or Japanese anemone, thimbleweed, or windflower) are species of flowering herbaceous perennials in the Ranunculaceae family. Anemone × hybrida Paxton is a hybrid of Anemone hupehensis var. japonica and Anemone vitifolia. It should not be confused with Anemone hybrida Miq. ex Pritz., a synonym of Anemone halleri All. Height is 3–4 ft (1–1 m). Leaves have three leaflets. Flowers are 40–60 mm (1.6–2.4 in) across, with 5-6 (or up to 20 in double forms) sculpted pink or white sepals and prominent yellow stamens, blooming from midsummer to autumn."
+        },
+        {
+            "name": "king protea",
+            "family": "Proteaceae",
+            "genus": "Protea",
+            "species": "P. cynaroides",
+            "wiki": "Protea cynaroides, the king protea, is a flowering plant. It is a distinctive member of Protea, having the largest flower head in the genus. The species is also known as giant protea, honeypot or king sugar bush. It is widely distributed in the southwestern and southern parts of South Africa in the fynbos region. The king protea is the national flower of South Africa. It also is the flagship of the Protea Atlas Project, run by the South African National Botanical Institute. The king protea has several colour forms and horticulturists have recognized 81 garden varieties, some of which have injudiciously been planted in its natural range. In some varieties the pink of the flower and red borders of leaves are replaced by a creamy yellow. This unusual flower has a long vase life in flower arrangements, and makes for an excellent dried flower. Protea cynaroides is adapted to survive wildfires by its thick underground stem, which contains many dormant buds; these will produce the new growth after the fire."
+        },
+        {
+            "name": "lenten rose",
+            "family": "Ranunculaceae",
+            "genus": "Helleborus",
+            "species": "H. orientalis",
+            "wiki": "Helleborus orientalis, known as the lenten rose, is a perennial flowering plant in the buttercup family, Ranunculaceae, native to Greece and Turkey. Jean-Baptiste Lamarck described the species in 1789, giving it its current name of Helleborus orientalis \"Hellébore du Levant\". The species name is derived from the Latin oriens \"the east\". The common name is from their flowering during Lent. Within the genus it has been classified in the section Helleborastrum, and is closely related to the other eight species. These species are all highly variable and hybridise with each other freely. The lenten rose grows as a perennial herb, reaching 30–45 centimetres (12–18 in) high, with glossy green palmate leaves composed of 7–9 leaflets with serrated leaf margins. Leathery in texture, the leaves are evergreen. The cup-shaped pendent flowers appear in late winter and spring, arising in groups of 1–4 on the ends of thick stems rising above the foliage. They have yellow stamens. All parts of the lenten rose are poisonous. In cultivation, the lenten rose is suited to shaded or part-shaded positions in the garden, in soil rich in humus. Cultivated varieties have a wide array of colours. German plantsmen began breeding H. orientalis in the mid-19th century, enhanced by new material from the Caucasus via St Petersburg Botanic Garden. New varieties were soon introduced to the United Kingdom. Interest peaked in the late 19th century, but the genus had fallen out of favour by the 1920s. The lenten rose was revived in horticulture in the 1960s by Helen Ballard, who bred many new varieties. Cultivated varieties can have white, green, pink to maroon and purple or spotted flowers."
+        },
+        {
+            "name": "lilac hibiscus",
+            "family": "Malvaceae",
+            "genus": "Alyogyne",
+            "species": "A. huegelii",
+            "wiki": "Alyogyne huegelii is a flowering plant found in the Southwest botanical province of Western Australia, extending along its entire coastline. A large flowered shrub, the species favours the sands of coastal shrublands and heath. The large flower, highly variable in color, is similar to that of Hibiscus. It was previously placed in that genus, and is commonly named Lilac Hibiscus. It is widely cultivated as a flowering plant for the garden, the varieties and cultivars previously published are no longer formally recognised. Shrub to four metres with many alternate branches, although lower ones may be sparse. Bright green leaves are divided in three to five in outline; margins are irregular, lobate to toothed; pubescent and strongly veined lobes are coarse in shape. The flowerstalk at the leaf axil is long, tilting at the single flower. The flowers have five luminous petals up to 70 mm long, these are overlapping and have slight ridges. The color is cream or mauve, or the lilac of the name by which it is traded. The staminal tube structure contains numerous whorled anthers, these are yellow. The five styles of this are fused until the tip, which is composed of swollen and apparently divided stigma. This is supported on a five-lobed calyx, within an arrangement of up to 10 partly fused bracts. As with all the Malvales, the flowers last around a day – becoming deeply coloured and papery when spent. They are numerous in the long flowering period between June and January."
+        },
+        {
+            "name": "lotus flower",
+            "family": "Nelumbonaceae",
+            "genus": "Nelumbo",
+            "species": "N. nucifera",
+            "wiki": "Nelumbo nucifera, also known as Indian lotus, sacred lotus, bean of India, Egyptian bean or simply lotus, is one of two extant species of aquatic plant in the family Nelumbonaceae. The Linnaean binomial Nelumbo nucifera is the currently recognized name for this species, which has been classified under the former names, Nelumbium speciosum Willd. and Nymphaea nelumbo, among others. These names are obsolete synonyms and are avoided in current works. This plant is an aquatic perennial. Under favorable circumstances its seeds may remain viable for many years, with the oldest recorded lotus germination being from that of seeds 1,300 years old recovered from a dry lakebed in northeastern China. It has a very wide native distribution, ranging from central and northern India (at altitudes up to 1,400 m or 4,600 ft in the southern Himalayas), through northern Indochina and East Asia north to the Amur region; the Russian populations have sometimes been referred to as 'Nelumbo komarovii', with isolated locations at the Caspian Sea. Today the species also occurs in southern India, Sri Lanka, virtually all of Southeast Asia, New Guinea and northern and eastern Australia, but this is probably the result of human translocations. It has a very long history (c. 3,000 years) of being cultivated for its edible seeds, and it is commonly cultivated in water gardens. It is the national flower of India and Vietnam."
+        },
+        {
+            "name": "love in the mist",
+            "family": "Ranunculaceae",
+            "genus": "Nigella",
+            "species": "N. damascena",
+            "wiki": "Nigella damascena (love-in-a-mist, ragged lady or devil in the bush) is an annual garden flowering plant, belonging to the buttercup family Ranunculaceae. It is native to southern Europe (but adventive in more northern countries of Europe), north Africa and southwest Asia, where it is found on neglected, damp patches of land. The specific epithet damascena relates to Damascus in Syria. The plant's common name comes from the flower being nestled in a ring of multifid, lacy bracts. It grows to 20–50 cm (8–20 in) tall, with pinnately divided, thread-like, alternate leaves. The flowers, blooming in early summer, are most commonly different shades of blue, but can be white, pink, or pale purple, with 5 to 25 sepals. The actual petals are located at the base of the stamens and are minute and clawed. The sepals are the only colored part of the perianth. The four to five carpels of the compound pistil have each an erect style. The fruit is a large and inflated capsule, growing from a compound ovary, and is composed of several united follicles, each containing numerous seeds. This is rather exceptional for a member of the buttercup family. The capsule becomes brown in late summer. The plant self-seeds, growing on the same spot year after year."
+        },
+        {
+            "name": "magnolia",
+            "family": "Magnoliaceae",
+            "genus": "Magnolia",
+            "species": "",
+            "wiki": "Magnolia is a large genus of about 210 flowering plant species in the subfamily Magnolioideae of the family Magnoliaceae. It is named after French botanist Pierre Magnol. Magnolia is an ancient genus. Appearing before bees did, the flowers are theorized to have evolved to encourage pollination by beetles. To avoid damage from pollinating beetles, the carpels of Magnolia flowers are extremely tough. Fossilised specimens of M. acuminata have been found dating to 20 million years ago, and of plants identifiably belonging to the Magnoliaceae date to 95 million years ago. Another aspect of Magnolia considered to represent an ancestral state is that the flower bud is enclosed in a bract rather than in sepals; the perianth parts are undifferentiated and called tepals rather than distinct sepals and petals. Magnolia shares the tepal characteristic with several other flowering plants near the base of the flowering plant lineage such as Amborella and Nymphaea (as well as with many more recently derived plants such as Lilium). The natural range of Magnolia species is a disjunct distribution, with a main centre in east and southeast Asia and a secondary centre in eastern North America, Central America, the West Indies, and some species in South America."
+        },
+        {
+            "name": "mallow flower",
+            "family": "Malvaceae",
+            "genus": "Malva",
+            "species": "",
+            "wiki": "Malva is a genus of about 25–30 species of herbaceous annual, biennial, and perennial plants in the family Malvaceae (of which it is the type genus), one of several closely related genera in the family to bear the common English name mallow. The genus is widespread throughout the temperate, subtropical and tropical regions of Africa, Asia and Europe. The leaves are alternate, palmately lobed. The flowers are from 0.5–5 cm diameter, with five pink or white petals. A number of species, previously considered to belong to Lavatera, have been moved to Malva. Several species are widely grown as garden flowers, while some are invasive weeds, particularly in the Americas where they are not native. Many species are edible as leaf vegetables and commonly foraged in the West. Known as ebegümeci in Turkish, it is used as vegetable in Turkey in various forms such as stuffing the leaves with bulgur or rice or using the boiled leaves as side dish. Malva verticillata (Chinese: 冬寒菜; pinyin: dōngháncài, Korean: 아욱 auk) is grown on a limited commercial scale in China; when made as a herbal infusion, it is used for its colon cleansing properties and as a weight loss supplement. Very easily grown, short-lived perennials are often grown as ornamental plants. Mild tasting, young mallow leaves can be a substitute for lettuce, whereas older leaves are better cooked as a leafy green vegetable. The buds and flowers can be used in salads."
+        },
+        {
+            "name": "marigold",
+            "family": "Asteraceae",
+            "genus": "Tagetes",
+            "species": "T. erecta",
+            "wiki": "Tagetes erecta, the Mexican marigold or Aztec marigold, is a species of the genus Tagetes native to Mexico. Despite its being native to the Americas, it is often called African marigold. In Mexico, this plant is found in the wild in the states of México, Puebla, and Veracruz. This plant reaches heights of between 50 and 100 cm (20 and 39 in). The Aztecs gathered the wild plant as well as cultivating it for medicinal, ceremonial and decorative purposes. It is widely cultivated commercially with many cultivars in use as ornamental plants, and for the cut-flower trade. It is a herbaceous annual or perennial whose height ranges from 30-110 cm. The root is cylindrical, pivoting, with a fibrous and shallow branching system. The stem is striated, sometimes ridge, smooth or slightly with villi, cylindrical, oval and herbaceous to slightly woody, with resin channels in the bark, which are aromatic when squeezed. Opposite leaves at the bottom alternate at the top, up to 20 cm long, pinnate, composed of 11 to 17 leaflets, lanceolate to linear-lanceolate, up to 5 cm long and 1.5 cm wide, acute to acuminate, serrated to sub-holders, the lower ones of each leaf frequently setiform (in the form of threads), the superiors are sometimes completely setiform; with abundant round glands. The main characteristic of the flowers is that they are grouped in small heads or in solitary inflorescences, on peduncles up to 15 cm long, they are liguladas of yellow colors to red. In the flowers of the disc: 150 to 250 in the simple heads, in the doubles it shows different degrees of transformation in ligules, yellow to orange corollas, of 8 to 10 mm in length. The fruits and seeds are: linear achenes 7 to 10 mm long, smooth or slightly covered with stiff hairs at the corners. It has a long flowering period extending throughout the summer and fall. It reproduces easily by seeds."
+        },
+        {
+            "name": "mexican aster",
+            "family": "Asteraceae",
+            "genus": "Cosmos",
+            "species": "C. bipinnatus",
+            "wiki": "Cosmos bipinnatus, commonly called the garden cosmos or Mexican aster, is a medium-sized flowering herbaceous plant native to Mexico. The species and its varieties and cultivars are popular as an ornamental plant in temperate climate gardens. It naturalized in scattered locations across North America, South America, the West Indies, Italy, Australia, and Asia, where it is a garden escape (introduced species) and in some habitats becoming a weed. Cosmos bipinnatus is considered a half-hardy annual, although plants may reappear via self-sowing for several years. The plant height varies from 2–4 ft (0.61–1.22 m). The cultivated varieties appear in shades of pink and purple as well as white. Its foliage is finely cut into threadlike segments. When flowering, the plant can become top heavy. This problem is alleviated when grown in groups, as the bipinnate leaves interlock, and the colony supports itself."
+        },
+        {
+            "name": "mexican petunia",
+            "family": "Acanthaceae",
+            "genus": "Ruellia",
+            "species": "R. simplex",
+            "wiki": "Ruellia simplex (Britton's wild petunia, Mexican petunia, Mexican bluebell) is a species of flowering plant in the acanthus family, Acanthaceae. It is a native of Mexico, the Caribbean, and South America. It has become a widespread invasive plant in Florida, where it was likely introduced as an ornamental before 1933. Ruellia simplex is an evergreen perennial growing 3 ft (0.91 m) tall, forming colonies of stalks with lance-shaped leaves that are 6 to 12 in (15 to 30 cm) and .5 to .75 in (1.3 to 1.9 cm) wide. Trumpet shaped flowers are metallic blue to purple, with five petals, and 3 in (7.6 cm) wide. There is a dwarf variety that is only 1 ft (0.30 m) tall."
+        },
+        {
+            "name": "monkshood",
+            "family": "Ranunculaceae",
+            "genus": "Aconitum",
+            "species": "",
+            "wiki": "Aconitum, commonly known as aconite, monkshood, wolf's bane, leopard's bane, mousebane, women's bane, devil's helmet, queen of poisons, or blue rocket, is a genus of over 250 species of flowering plants belonging to the family Ranunculaceae. These herbaceous perennial plants are chiefly native to the mountainous parts of the Northern Hemisphere, growing in the moisture-retentive but well-draining soils of mountain meadows. Most species are extremely poisonous and must be dealt with very carefully. The dark green leaves of Aconitum species lack stipules. They are palmate or deeply palmately lobed with five to seven segments. Each segment again is trilobed with coarse sharp teeth. The leaves have a spiral (alternate) arrangement. The lower leaves have long petioles. The tall, erect stem is crowned by racemes of large blue, purple, white, yellow, or pink zygomorphic flowers with numerous stamens. They are distinguishable by having one of the five petaloid sepals (the posterior one), called the galea, in the form of a cylindrical helmet, hence the English name monkshood. Two to 10 petals are present. The two upper petals are large and are placed under the hood of the calyx and are supported on long stalks. They have a hollow spur at their apex, containing the nectar. The other petals are small and scale-like or nonforming. The three to five carpels are partially fused at the base. The fruit is an aggregate of follicles, a follicle being a dry, many-seeded structure."
+        },
+        {
+            "name": "moon orchid",
+            "family": "Orchidaceae",
+            "genus": "Phalaenopsis",
+            "species": "P. amabilis",
+            "wiki": "Phalaenopsis amabilis, commonly known as the moth orchid or moon orchid, is a species of flowering plant in the orchid family Orchidaceae, native to the East Indies and Australia, and widely cultivated as a decorative houseplant. Plants of this genus have a uniform structure that makes the identification easy for novice botanists. Phalaenopsis amabilis, like most of the other species in this genus, has a short stem. This is believed to be an adaptation to gain the light requirements needed to grow, according to Christenson. The rooting of P. amabilis is usually unbranched. The only times it would be branched are if the roots are damaged or if the individual has gotten old in age. The leaves of P. amabilis vary from oblong to elliptic at the base and obtuse, minutely, at the tip or apex and measures at 50 × 10 cm. The moth orchid's flower is showy, membranous, white, the lip, (the unpared petals of an orchid) which is three-lobed, and the callus are a variety of yellow and red depending on the individual plant. It is able to bloom for a long period of time and can grow up to 10 cm in diameter and more. Phalaenopsis amabilis reproduces sexually through pollination. This plant grows its flower to attract the pollinator. It is generally pollinated by large carpenter bees from the genus Xylocopa. For this particular species in the Phalaenopsis genus the pollination frequency and success rate is high (about 50%)."
+        },
+        {
+            "name": "morning glory",
+            "family": "Convolvulaceae",
+            "genus": "Argyreia, Astripomoea, Calystegia, Convolvulus, Ipomoea, Lepistemon, Merremia, Operculina, Rivea, Stictocardia",
+            "species": "",
+            "wiki": "Morning glory is the common name for over 1,000 species of flowering plants in the family Convolvulaceae, whose current taxonomy and systematics are in flux. Most morning glory flowers unravel into full bloom in the early morning. The flowers usually start to fade a few hours before the \"petals\" start showing visible curling. They prefer full solar exposure throughout the day, and mesic soils. Some morning glories, such as Ipomoea muricata, are night-blooming flowers. In some places, such as Australian bushland, some species of morning glories develop thick roots and tend to grow in dense thickets. They can quickly spread by way of long, creeping stems. By crowding out, blanketing and smothering other plants, morning glory has turned into a serious invasive weed problem. Because of their fast growth, twining habit, attractive flowers, and tolerance for poor, dry soils, some morning glories are excellent vines for creating summer shade on building walls when trellised, thus keeping the building cooler and reducing heating and cooling costs."
+        },
+        {
+            "name": "osteospermum",
+            "family": "Asteraceae",
+            "genus": "Osteospermum",
+            "species": "",
+            "wiki": "Osteospermum is a genus of flowering plants belonging to the Calenduleae, one of the smaller tribes of the sunflower/daisy family Asteraceae. They are known as the daisybushes or African daisies. Osteospermum used to belong to the genus Dimorphotheca, but only the annual species remain in that genus; the perennials belong to Osteospermum. The genus Osteospermum is also closely related to the small genus Chrysanthemoides. Their alternate (rarely opposite) leaves are green, but some variegated forms exist. The leaf form is lanceolate. The leaf margin is entire, but hardy types are toothed. The daisy-like composite flower consists of disc florets and ray florets, growing singly at the end of branches or sometimes in inflorescences of terminal corymbose cymes. The disc florets are pseudo-bisexual and come in several colors such as blue, yellow and purple. The hardy types usually show a dark blue center in the disc until the yellow pollen is shed. The ray florets are female and are found diverse colors such as white, cream, pink, purple, mauve to yellow. Some cultivars have \"spooned\" petals such as \"Pink Whirls\". Many species flower a second time late summer, stimulated by the cooler night temperatures. Hardy types show profuse flowering in the spring, but they do not get a second flush of flowers."
+        },
+        {
+            "name": "oxeye daisy",
+            "family": "Asteraceae",
+            "genus": "Leucanthemum",
+            "species": "L. vulgare",
+            "wiki": "Leucanthemum vulgare, the ox-eye daisy, or oxeye daisy, is a widespread flowering plant native to Europe and the temperate regions of Asia and an introduced plant to North America, Australia and New Zealand. It is one of a number of family Asteraceae plants to be called a \"daisy\", and has the additional vernacular names common daisy, dog daisy and moon daisy. L. vulgare is a typical grassland perennial wildflower, growing in a variety of plant communities including meadows and fields, under scrub and open-canopy forests, and in disturbed areas. Leucanthemum is from the Ancient Greek λευκός (leukós, \"white\") and ἄνθος (ánthos, \"flower\"). In plant symbolism, the ox-eye daisy represents patience. Leucanthemum vulgare is a perennial herb one to three feet high by 1 foot (0.30 m) wide. The stem is mostly unbranched and sprouts laterally from a creeping rhizomatous rootstock. The leaves are dark green on both sides. The basal and middle leaves are petiolate, obovate to spoon-shaped, and serrate to dentate. The upper leaves are shorter, sessile, and borne along the stem. L. vulgare blooms from late spring to autumn. The small flower head, not larger than 5 centimetres (2.0 in), consists of about 20 white ray florets that surround a yellow disc, growing on the end of 1 to 3 ft (30 to 91 cm) tall stems. The plant produces an abundant number of flat seeds, without pappus, that remain viable in the soil for 2 to 3 years. It also spreads vegetatively by rhizomes."
+        },
+        {
+            "name": "passion flower",
+            "family": "Passifloraceae",
+            "genus": "Passiflora",
+            "species": "",
+            "wiki": "Passiflora, known also as the passion flowers or passion vines, is a genus of about 550 species of flowering plants, the type genus of the family Passifloraceae. They are mostly tendril-bearing vines, with some being shrubs or trees. They can be woody or herbaceous. Passion flowers produce regular and usually showy flowers with a distinctive corona. The flower is pentamerous and ripens into an indehiscent fruit with numerous seeds. For more information about the fruit of the Passiflora plant, see passionfruit. Passiflora has a largely neotropic distribution, unlike its family Passifloraceae, which includes more Old World species (such as the genus Adenia). The vast majority of Passiflora are found in Mexico, Central and South America, although there are additional representatives in the United States, Southeast Asia, and Oceania. New species continue to be identified: for example, P. xishuangbannaensis and P. pardifolia have only been known to the scientific community since 2005 and 2006, respectively. Some species of Passiflora have been naturalized beyond their native ranges. For example, the blue passion flower (P. caerulea) now grows wild in Spain. The purple passionfruit (P. edulis) and its yellow relative flavicarpa have been introduced in many tropical regions as commercial crops."
+        },
+        {
+            "name": "peruvian lily",
+            "family": "",
+            "genus": "Alstroemeriaceae",
+            "species": "Alstroemeria",
+            "wiki": "Alstroemeria , commonly called the Peruvian lily or lily of the Incas, is a genus of flowering plants in the family Alstroemeriaceae. They are all native to South America although some have become naturalized in the United States, Mexico, Australia, New Zealand, Madeira and the Canary Islands. Almost all of the species are restricted to one of two distinct centers of diversity, one in central Chile, the other in eastern Brazil. Species of Alstroemeria from Chile are winter-growing plants while those of Brazil are summer-growing. All are long-lived perennials except A. graminea, a diminutive annual from the Atacama Desert of Chile. Plants of this genus grow from a cluster of tubers. They send up fertile and sterile stems, the fertile stems of some species reaching 1.5 meters in height. The leaves are alternately arranged and resupinate, twisted on the petioles so that the undersides face up. The leaves are variable in shape and the blades have smooth edges. The flowers are solitary or borne in umbels. The flower has six tepals each up to 5 centimeters long. They come in many shades of red, orange, purple, green, and white, flecked and striped and streaked with darker colors. There are six curving stamens. The stigma has three lobes. The fruit is a capsule with three valves. Alstroemeria are classified as an inferior monocot, meaning the petals are located above the ovary and the leaves are parallel."
+        },
+        {
+            "name": "petunia",
+            "family": "Solanaceae",
+            "genus": "Petunia",
+            "species": "",
+            "wiki": "Petunia is genus of 20 species of flowering plants of South American origin. The popular flower of the same name derived its epithet from the French, which took the word petun, meaning \"tobacco,\" from a Tupi–Guarani language. An annual, most of the varieties seen in gardens are hybrids (P. × atkinsiana, also known as P. × hybrida). The Mayan and Incas believed that petunias have the power to chase away (with their odor) the underworld monsters and spirits. Their flower-beds were bunched together for magical drinks. According to the folklore, Petunias will thrive where there is positive energy and will not grow in places where there is negativity. When given as a gift, Petunias typically have two meanings. They could represent being comfortable with someone, or \"your company suits me\". Conversely, they could also represent anger and resentment."
+        },
+        {
+            "name": "pincushion",
+            "family": "Asteraceae",
+            "genus": "Chaenactis",
+            "species": "",
+            "wiki": "Chaenactis is a genus of plants in the daisy family which are known generally as pincushions or dustymaidens. These wildflowers are native to western North America, especially the desert southwest of the United States. They are quite variable in appearance. They are generally aster-like in appearance with many disc florets in each head. There may be only disc florets, but sometimes there are also enlarged ray florets along the edges of the corolla. They may be white to yellow or pink."
+        },
+        {
+            "name": "pink primrose",
+            "family": "Onagraceae",
+            "genus": "Oenothera",
+            "species": "O. speciosa",
+            "wiki": "Oenothera speciosa is a species of evening primrose known by several common names, including pinkladies, pink evening primrose, showy evening primrose, Mexican primrose, and amapola. It is a herbaceous perennial wildflower native to 28 of the lower 48 U.S. states (Alabama, Arkansas, Arizona, California, the Carolinas, Connecticut, Florida, Georgia, Iowa, Illinois, Indiana, Kansas, Kentucky, Louisiana, Missouri, Mississippi, Nebraska, New Mexico, Ohio, Oklahoma, Pennsylvania, Tennessee, Texas, Utah, Virginia, and West Virginia) as well as Chihuahua and Coahuila in Mexico. It frequently escapes from gardens. The specific name, speciosa, means \"showy\". The plant's wild habitat includes rocky prairies, open woodlands, slopes, roadsides, meadows and disturbed areas. While it makes an attractive garden plant, care should be taken with it as it can become invasive, spreading by runners and seeds. This drought-resistant plant prefers loose, fast-draining soil and full sun."
+        },
+        {
+            "name": "pink quill",
+            "family": "Bromeliaceae",
+            "genus": "Tillandsia",
+            "species": "T. cyanea",
+            "wiki": "Tillandsia cyanea (common name pink quill) is a species of flowering plant in the bromeliad family, native to the rainforests of Ecuador. An epiphytic perennial growing to 50 cm (20 in) high by 50 cm (20 in) wide, it has stemless rosettes of thin, recurved leaves and paddle-shaped spikes of 20 pink bracts with violet flowers, in spring and autumn. The Latin specific epithet cyanea means \"blue\", referring to the intense purple-violet hue of the flowers. With a minimum temperature of 7 °C (45 °F), this plant is often cultivated as a low-maintenance houseplant in temperate regions, often sold alongside orchids or by itself. It has gained the Royal Horticultural Society's Award of Garden Merit."
+        },
+        {
+            "name": "pink-yellow dahlia",
+            "family": "Asteraceae",
+            "genus": "Dahlia",
+            "species": "",
+            "wiki": "Dahlia is a genus of bushy, tuberous, herbaceous perennial plants native to Mexico. A member of the Asteraceae (or Compositae), dicotyledonous plants, related species include the sunflower, daisy, chrysanthemum, and zinnia. There are 42 species of dahlia, with hybrids commonly grown as garden plants. Flower forms are variable, with one head per stem; these can be as small as 5 cm (2 in) diameter or up to 30 cm (1 ft) (\"dinner plate\"). This great variety results from dahlias being octoploids—that is, they have eight sets of homologous chromosomes, whereas most plants have only two. In addition, dahlias also contain many transposons—genetic pieces that move from place to place upon an allele—which contributes to their manifesting such great diversity. The stems are leafy, ranging in height from as low as 30 cm (12 in) to more than 1.8–2.4 m (6–8 ft). The majority of species do not produce scented flowers or cultivars. Like most plants that do not attract pollinating insects through scent, they are brightly colored, displaying most hues, with the exception of blue. The dahlia was declared the national flower of Mexico in 1963. The tubers were grown as a food crop by the Aztecs, but this use largely died out after the Spanish Conquest. Attempts to introduce the tubers as a food crop in Europe were unsuccessful."
+        },
+        {
+            "name": "poinsettia",
+            "family": "Euphorbiaceae",
+            "genus": "Euphorbia",
+            "species": "E. pulcherrima",
+            "wiki": "The poinsettia (Euphorbia pulcherrima) is a commercially important plant species of the diverse spurge family (Euphorbiaceae). The species is indigenous to Mexico. It is particularly well known for its red and green foliage and is widely used in Christmas floral displays. It derives its common English name from Joel Roberts Poinsett, the first United States Minister to Mexico, who introduced the plant to the US in 1825. Euphorbia pulcherrima is a shrub or small tree, typically reaching a height of 0.6–4 metres (2–13 ft). The plant bears dark green dentate leaves that measure 7–16 centimetres (2.8–6.3 in) in length. The colored bracts—which are most often flaming red but can be orange, pale green, cream, pink, white, or marbled—are often mistaken for flower petals because of their groupings and colors, but are actually leaves. The colors of the bracts are created through photoperiodism, meaning that they require darkness (12 hours at a time for at least five days in a row) to change color. At the same time, the plants require abundant light during the day for the brightest color. The flowers of the poinsettia are unassuming and do not attract pollinators. They are grouped within small yellow structures found in the center of each leaf bunch, and are called cyathia. The poinsettia is native to Mexico. It is found in the wild in deciduous tropical forests at moderate elevations from southern Sinaloa down the entire Pacific coast of Mexico to Chiapas and Guatemala. It is also found in the interior in the hot, seasonally dry forests of Guerrero, Oaxaca, and Chiapas. Reports of E. pulcherrima growing in the wild in Nicaragua and Costa Rica have yet to be confirmed by botanists."
+        },
+        {
+            "name": "primula",
+            "family": "Primulaceae",
+            "genus": "Primula",
+            "species": "",
+            "wiki": "Primula is a genus of mainly herbaceous flowering plants in the family Primulaceae. They include the familiar wildflower of banks and verges, the primrose (P. vulgaris). Other common species are P. auricula (auricula), P. veris (cowslip) and P. elatior (oxlip). These species and many others are valued for their ornamental flowers. They have been extensively cultivated and hybridised - in the case of the primrose, for many hundreds of years. Primula are native to the temperate northern hemisphere, south into tropical mountains in Ethiopia, Indonesia and New Guinea, and in temperate southern South America. Almost half of the known species are from the Himalayas. Primula has about 500 species in traditional treatments, and more if certain related genera are included within its circumscription. Primula is a complex and varied genus, with a range of habitats from alpine slopes to boggy meadows. Plants bloom mostly during the spring, with flowers often appearing in spherical umbels on stout stems arising from basal rosettes of leaves; their flowers can be purple, yellow, red, pink, blue, or white. Some species show a white mealy bloom (farina) on various parts of the plant. Many species are adapted to alpine climates."
+        },
+        {
+            "name": "prince of wales feathers",
+            "family": "Amaranthaceae",
+            "genus": "Amaranthus",
+            "species": "A. hypochondriacus",
+            "wiki": "Amaranthus hypochondriacus is an ornamental plant commonly known as Prince-of-Wales feather or prince's-feather. Originally endemic to Mexico, it is called quelite, blero and quintonil in Spanish. In Africa, like many other species in the family Amaranthaceae, it is valued as source of food. In temperate regions it is cultivated as a half-hardy annual. Numerous cultivars have been selected, of which 'Green Thumb' and 'Pygmy Torch' have gained the Royal Horticultural Society's Award of Garden Merit."
+        },
+        {
+            "name": "purple coneflower",
+            "family": "Asteraceae",
+            "genus": "Echinacea",
+            "species": "",
+            "wiki": "Echinacea is a genus, or group of herbaceous flowering plants in the daisy family. The genus Echinacea has nine species, which are commonly called coneflowers. They are found only in eastern and central North America, where they grow in moist to dry prairies and open wooded areas. They have large, showy heads of composite flowers, blooming from early to late summer. The generic name is derived from the Greek word ἐχῖνος (ekhinos), meaning \"hedgehog\", due to the spiny central disk. These flowering plants and their parts have different uses. Some species are cultivated in gardens for their showy flowers. Echinacea purpurea is used in folk medicine. Two of the species, E. tennesseensis and E. laevigata, are listed in the United States as endangered species. Echinacea species are herbaceous, drought-tolerant perennial plants growing up to 140 cm or 4 feet, in height. They grow from taproots, except E. purpurea, which grows from a short caudex with fibrous roots. They have erect stems that in most species are unbranched. Both the basal and cauline (stem) leaves are arranged alternately. The leaves are normally hairy with a rough texture, having uniseriate trichomes (1–4 rings of cells) but sometimes they lack hairs. The basal leaves and the lower stem leaves have petioles, and as the leaves progress up the stem the petioles often decrease in length. The leaf blades in different species may have one, three or five nerves. Some species have linear to lanceolate leaves, and others have elliptic- to ovate-shaped leaves; often the leaves decrease in size as they progress up the stems. Leaf bases gradually increase in width away from the petioles or the bases are rounded to heart shaped. Most species have leaf margins that are entire, but sometimes they are dentate or serrate."
+        },
+        {
+            "name": "red ginger",
+            "family": "Zingiberaceae",
+            "genus": "Alpinia",
+            "species": "A. purpurata",
+            "wiki": "Alpinia purpurata, red ginger, also called ostrich plume and pink cone ginger, are native Malaysian plants with showy flowers on long brightly colored red bracts. They look like the bloom, but the true flower is the small white flower on top. It has cultivars called Jungle King and Jungle Queen. Red Ginger grows in Hawaii, Trinidad, Grenada, St. Lucia, Panama, Dominica, St. Vincent, Martinique, Guadeloupe, Puerto Rico, Suriname (where its Dutch name is 'bokkepoot', billy-goat's foot), and many Central American nations, including Belize. It is also found in Samoa, where it is the national flower, and is locally called \"teuila.\" Red ginger can also be grown in South Florida since, in general, the region does not fall below freezing temperatures. It prefers partial shade and moist humid conditions, although it can tolerate full sun in some climates. It tends to like to be well watered and not left to dry out. Red ginger can also be grown as a houseplant and its cut flowers can be used in arrangements.Red ginger tends to spread."
+        },
+        {
+            "name": "rose",
+            "family": "Rosaceae",
+            "genus": "Rosa",
+            "species": "",
+            "wiki": "A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and thousands of cultivars. They form a group of plants that can be erect shrubs, climbing or trailing with stems that are often armed with sharp prickles. Flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds. Most species are native to Asia, with smaller numbers native to Europe, North America, and northwestern Africa. Species, cultivars and hybrids are all widely grown for their beauty and often are fragrant. Roses have acquired cultural significance in many societies. Rose plants range in size from compact, miniature roses, to climbers that can reach seven meters in height. Different species hybridize easily, and this has been used in the development of the wide range of garden roses. The name rose comes from French, itself from Latin rosa, which was perhaps borrowed from Oscan, from Greek ρόδον rhódon (Aeolic βρόδον wródon), itself borrowed from Old Persian wrd- (wurdi), related to Avestan varəδa, Sogdian ward, Parthian wâr. Roses are best known as ornamental plants grown for their flowers in the garden and sometimes indoors. They have been also used for commercial perfumery and commercial cut flower crops. Some are used as landscape plants, for hedging and for other utilitarian purposes such as game cover and slope stabilization."
+        },
+        {
+            "name": "ruby-lipped cattleya",
+            "family": "Orchidaceae",
+            "genus": "Cattleya",
+            "species": "C. labiata",
+            "wiki": "Cattleya labiata, also known as the crimson cattleya or ruby-lipped cattleya, is the type species of Cattleya, discovered in 1818 in Brazil. This plant grows in the northeastern area of Brazil, in the states of Pernambuco and Alagoas. They grow to different sizes depending on the area from which they originate. Those that are growing in Pernambuco are smaller, with small but colored flowers, with most of them being lilac. The interior part of the flower is a dark lilac color. Plants from Alagoas are bigger and have larger flowers. Some varieties, such as Cattleya labiata var. semialba, have large white flowers with a touch of yellow. There is another variety of semialba, with lilac in the inferior part of the flower. This plant is an epiphyte, growing up in trees, where light is plentiful. However, there are also many other places where this plant could grow, such as directly on rock with very little soil. The plant itself is a medium-sized unifoliate (labiate) Cattleya, with a medium-sized rhizome. The plant has long leaves, with a tough (coriaceous) consistency because of the aridity in the canopy of trees, due to a short dry season. For water requirements, the plant has a pseudobulb under every leaf to store water and nutritive substances during the short dry season. In the wet season new leaves grow rapidly, producing a large flowered inflorescence. Flowers are white or lavender colored with a darker spot in the lip. Pollination is performed by insects, usually by a scent-collecting male euglosine bee. The result is a capsule with a very large number of seeds (10,000-20,000)."
+        },
+        {
+            "name": "siam tulip",
+            "family": "Zingiberaceae",
+            "genus": "Curcuma",
+            "species": "C. alismatifolia",
+            "wiki": "Curcuma alismatifolia, Siam tulip or summer tulip is a tropical plant native to Laos, northern Thailand, and Cambodia. Despite its name, it is not related to the tulip, but to the various ginger species such as turmeric. It can grow as an indoor plant, and is also sold as a cut flower. One of the most famous wild fields of Siam tulips is in Pa Hin Ngam National Park in Chaiyaphum Province, Thailand."
+        },
+        {
+            "name": "silverbush flower",
+            "family": "Convolvulaceae",
+            "genus": "Convolvulus",
+            "species": "C. cneorum",
+            "wiki": "Convolvulus cneorum, also known as silverbush or shrubby bindweed, is a species of flowering plant in the family Convolvulaceae, which contains many plants described as \"bindweed\". However, unlike other species in the genus, it is an evergreen shrub rather than a vine, forming a low mound 0.6–1.2 m (2 ft 0 in–3 ft 11 in) in height, with a similar spread. It produces 2.5–4 cm (1–2 in) diameter flowers which are white with a yellow throat. These are produced at the end of stems in loose panicles and may almost completely cover the plants. The leaves are grey-green and are covered in fine hairs which give the plant a silvery appearance. The species is found in coastal areas of Spain, Italy, Croatia and Albania In Italy it is found on the coast of Tuscany and western Sicily and on the islands of Capri and Li Galli. In Croatia it is found on many of the islands off the coast. It is often found growing in cracks in rocks."
+        },
+        {
+            "name": "single flowered dahlia",
+            "family": "Asteraceae",
+            "genus": "Dahlia",
+            "species": "",
+            "wiki": "Single-flowered dahlias are an offical RHS classification group of Dahlias (Sin). The flower has a central disc with a single outer ring of florets (which may overlap) encircling it, and which may be rounded or pointed. Dahlia is a genus of bushy, tuberous, herbaceous perennial plants native to Mexico. A member of the Asteraceae (or Compositae), dicotyledonous plants, related species include the sunflower, daisy, chrysanthemum, and zinnia. There are 42 species of dahlia, with hybrids commonly grown as garden plants. Flower forms are variable, with one head per stem; these can be as small as 5 cm (2 in) diameter or up to 30 cm (1 ft) (\"dinner plate\"). This great variety results from dahlias being octoploids—that is, they have eight sets of homologous chromosomes, whereas most plants have only two. In addition, dahlias also contain many transposons—genetic pieces that move from place to place upon an allele—which contributes to their manifesting such great diversity. The stems are leafy, ranging in height from as low as 30 cm (12 in) to more than 1.8–2.4 m (6–8 ft). The majority of species do not produce scented flowers or cultivars. Like most plants that do not attract pollinating insects through scent, they are brightly colored, displaying most hues, with the exception of blue. The dahlia was declared the national flower of Mexico in 1963. The tubers were grown as a food crop by the Aztecs, but this use largely died out after the Spanish Conquest. Attempts to introduce the tubers as a food crop in Europe were unsuccessful."
+        },
+        {
+            "name": "snapdragon",
+            "family": "Plantaginaceae",
+            "genus": "Antirrhinum",
+            "species": "",
+            "wiki": "Antirrhinum is a genus of plants commonly known as dragon flowers or snapdragons because of the flowers' fancied resemblance to the face of a dragon that opens and closes its mouth when laterally squeezed. They are native to rocky areas of Europe, the United States, and North Africa. The snapdragon is an important garden plant, widely cultivated from tropical to temperate zones as a bedding, rockery, herbaceous border or container plant. (Tolety 2011) Cultivars have showy white, crimson, or yellow bilabiate flowers (with two lips). It is also important as a model organism in botanical research, and its genome has been studied in detail. In addition to growing the plants for cut flowers, the seeds have been used to extract edible oils, particularly in Russia, while the leaves and flowers have been considered to possess antiphlogistic properties and have been used in poultices. A green dye has also been extracted from the flowers."
+        },
+        {
+            "name": "spear thistle",
+            "family": "Asteraceae",
+            "genus": "Cirsium",
+            "species": "C. vulgare",
+            "wiki": "Cirsium vulgare, the spear thistle, bull thistle, or common thistle, is a species of the Asteraceae genus Cirsium, native throughout most of Europe (north to 66°N, locally 68°N), Western Asia (east to the Yenisei Valley), and northwestern Africa (Atlas Mountains). It is also naturalised in North America, Africa, and Australia and is an invasive weed in some areas. It is the national flower of Scotland. The plant provides a great deal of nectar for pollinators. It was rated in the top 10 for most nectar production (nectar per unit cover per year) in a UK plants survey conducted by the AgriLand project which is supported by the UK Insect Pollinators Initiative. Marsh Thistle, Cirsium palustre, was ranked in first place while this thistle was ranked in sixth place. It also was a top producer of nectar sugar in another study in Britain, ranked third. It is a tall biennial or short-lived monocarpic thistle, forming a rosette of leaves and a taproot up to 70 cm long in the first year, and a flowering stem 1–1.5 m tall in the second (rarely third or fourth) year. The stem is winged, with numerous longitudinal spine-tipped wings along its full length. The leaves are stoutly spined, grey-green, deeply lobed; the basal leaves up to 15–25 cm long, with smaller leaves on the upper part of the flower stem; the leaf lobes are spear-shaped (from which the English name derives). The inflorescence is 2.5–5 cm diameter, pink-purple, with all the florets of similar form (no division into disc and ray florets). The seeds are 5 mm long, with a downy pappus, which assists in wind dispersal. As in other species of Cirsium (but unlike species in the related genus Carduus), the pappus hairs are feathery with fine side hairs."
+        },
+        {
+            "name": "spring crocus",
+            "family": "Iridaceae",
+            "genus": "Crocus",
+            "species": "",
+            "wiki": "Crocus is a genus of flowering plants in the iris family comprising 90 species of perennials growing from corms. Many are cultivated for their flowers appearing in autumn, winter, or spring. The spice saffron is obtained from the stigmas of Crocus sativus, an autumn-blooming species. Crocuses are native to woodland, scrub, and meadows from sea level to alpine tundra in central and southern Europe, North Africa and the Middle East, on the islands of the Aegean, and across Central Asia to Xinjiang Province in western China. The cup-shaped, solitary, salverform flower tapers off into a narrow tube. Their colors vary enormously, although lilac, mauve, yellow, and white are predominant. The grass-like, ensiform leaf shows generally a white central stripe along the leaf axis. The leaf margin is entire. A crocus has three stamens, while a similar-looking toxic plant, colchicum, sometimes popularly referred to as \"autumn crocus\", has six stamens. In addition, crocus have one style, while colchicum have three."
+        },
+        {
+            "name": "stemless gentian",
+            "family": "Gentianaceae",
+            "genus": "Gentiana",
+            "species": "G. acaulis",
+            "wiki": "Gentiana acaulis, the stemless gentian, is a species of flowering plant in the family Gentianaceae, native to central and southern Europe, from Spain east to the Balkans, growing especially in mountainous regions, such as the Alps, Cevennes and Pyrenees, at heights of 800–3,000 m (2,625–9,843 ft). It is a perennial plant, growing to 2 cm tall and 10 cm or more wide. The leaves are evergreen, 2-3.5 cm long, in a basal rosette, forming clumps. The trumpet-shaped terminal flowers are blue with olive-green spotted longitudinal throats. They grow on a very short peduncle, 3–6 cm long. The flower stem is often without leaves, or has 1 or 2 pairs of leaves. It likes full sun, is fully hardy and flowers in late spring and summer. This plant, like others of its genus, is valued in cultivation for the unusually pure intense blue of its blooms. It has gained the Royal Horticultural Society's Award of Garden Merit. The Latin specific epithet acaulis means \"short-stemmed\". The closely related Gentiana clusii, often called by the same common name as this species, differs by growing on limy soils. It also has shorter leaves and the flowers have no olive-green stripes. A depiction of a gentian flower can be seen on the obverse side of Austrian € 0.01 euro coins."
+        },
+        {
+            "name": "sunflower",
+            "family": "Asteraceae",
+            "genus": "Helianthus",
+            "species": "",
+            "wiki": "Helianthus or sunflower is a genus of plants comprising about 70 species. Except for three species in South America, all Helianthus species are native to North America. The common name, \"sunflower\", typically refers to the popular annual species Helianthus annuus, or the common sunflower, whose round flower heads in combination with the ligules look like the sun. This and other species, notably Jerusalem artichoke (H. tuberosus), are cultivated in temperate regions and some tropical regions as food crops for humans, cattle, and poultry, and as ornamental plants. Perennial sunflower species are not as popular for gardens due to their tendency to spread rapidly and become invasive. Whorled sunflowers, H. verticillatus, were listed as an endangered species in 2014 when the U.S. Fish and Wildlife Service issued a final rule protecting it under the Endangered Species Act. The primary threats are industrial forestry and pine plantations in Alabama, Georgia, and Tennessee. They grow to 1.8 m (6 ft) and are primarily found in woodlands, adjacent to creeks and moist, prairie-like areas. Sunflowers are usually tall annual or perennial plants that in some species can grow to a height of 300 cm (120 in) or more. They bear one or more wide, terminal capitula (flower heads), with bright yellow ray florets at the outside and yellow or maroon (also known as a brown/red) disc florets inside. Several ornamental cultivars of H. annuus have red-colored ray florets; all of them stem from a single original mutant. During growth, sunflowers tilt during the day to face the sun, but stop once they begin blooming. This tracking of the sun in young sunflower heads is called heliotropism. By the time they are mature, sunflowers generally face east. The rough and hairy stem is branched in the upper part in wild plants, but is usually unbranched in domesticated cultivars. The petiolate leaves are dentate and often sticky. The lower leaves are opposite, ovate, or often heart-shaped."
+        },
+        {
+            "name": "sweet pea",
+            "family": "Fabaceae",
+            "genus": "Lathyrus",
+            "species": "L. odoratus",
+            "wiki": "The sweet pea (Lathyrus odoratus) is a flowering plant in the genus Lathyrus in the family Fabaceae (legumes), native to Sicily, Cyprus, southern Italy and the Aegean Islands. It is an annual climbing plant, growing to a height of 1–2 metres (3 ft 3 in–6 ft 7 in), where suitable support is available. The leaves are pinnate with two leaflets and a terminal tendril, which twines around supporting plants and structures, helping the sweet pea to climb. In the wild plant the flowers are purple, 2–3.5 centimetres (0.79–1.38 in) broad; they are larger and very variable in color in the many cultivars. The annual species, L. odoratus, may be confused with the everlasting pea, L. latifolius, a perennial."
+        },
+        {
+            "name": "sweet william",
+            "family": "Caryophyllaceae",
+            "genus": "Dianthus",
+            "species": "D. barbatus",
+            "wiki": "Dianthus barbatus (Sweet William) is a species of Dianthus native to southern Europe and parts of Asia which has become a popular ornamental garden plant. It is a herbaceous biennial or short-lived perennial plant growing to 13–92 cm tall, with flowers in a dense cluster of up to 30 at the top of the stems. Each flower is 2–3 cm diameter with five petals displaying serrated edges. Wild plants produce red flowers with a white base, but colours in cultivars range from white, pink, red, and purple to variegated patterns. The exact origin of its English common name is unknown but first appears in 1596 in botanist John Gerard's garden catalogue. The flowers are edible and may have medicinal properties. Sweet William attracts bees, birds, and butterflies. Sweet William is a herbaceous biennial or short-lived perennial plant native to the mountains of southern Europe from the Pyrenees east to the Carpathians and the Balkans, with a variety disjunct in northeastern China, Korea, and southeasternmost Russia. It grows to 13–92 cm tall (depending on the variety), with green to glaucous blue-green tapered leaves 4–10 cm long and 1–2 cm broad. The flowers are produced in a dense cluster of up to 30 at the top of the stems (known as a umbel) and have a spicy, clove-like scent; each flower is 2–3 cm diameter with five petals with serrated edges; in wild plants the petals are red with a white base."
+        },
+        {
+            "name": "sword lily",
+            "family": "Iridaceae",
+            "genus": "Gladiolus",
+            "species": "",
+            "wiki": "Gladiolus (from Latin, the diminutive of gladius, a sword) is a genus of perennial cormous flowering plants in the iris family (Iridaceae). It is sometimes called the 'sword lily', but is usually called by its generic name (plural gladioli). The genus occurs in Asia, Mediterranean Europe, South Africa, and tropical Africa. The center of diversity is in the Cape Floristic Region. The genera Acidanthera, Anomalesia, Homoglossum, and Oenostachys, formerly considered distinct, are now included in Gladiolus. Gladioli grow from rounded, symmetrical corms, (similar to crocuses) that are enveloped in several layers of brownish, fibrous tunics. Their stems are generally unbranched, producing 1 to 9 narrow, sword-shaped, longitudinal grooved leaves, enclosed in a sheath. The lowest leaf is shortened to a cataphyll. The leaf blades can be plane or cruciform in cross section.The flowers of unmodified wild species vary from very small to perhaps 40 mm across, and inflorescences bearing anything from one to several flowers. The spectacular giant flower spikes in commerce are the products of centuries of hybridisation and selection. These flowers are variously coloured, ranging from pink to reddish or light purple with white, contrasting markings, or white to cream or orange to red."
+        },
+        {
+            "name": "thorn apple",
+            "family": "Solanaceae",
+            "genus": "Datura",
+            "species": "D. stramonium",
+            "wiki": "Datura stramonium, known by the English names jimsonweed or devil's snare, is a plant in the nightshade family. It is believed to have originated in Mexico, but has now become naturalized in many other regions. Other common names for D. stramonium include thornapple and moon flower, and it has the Spanish name toloache. Other names for the plant include hell's bells, devil's trumpet, devil's weed, tolguacha, Jamestown weed, stinkweed, locoweed, pricklyburr, false castor oil plant, devil's cucumber, and thornapple. Datura has been used in traditional medicine to relieve asthma symptoms and as an analgesic during surgery or bonesetting. It is also a powerful hallucinogen and deliriant, which is used entheogenically for the intense visions it produces. However, the tropane alkaloids responsible for both the medicinal and hallucinogenic properties are fatally toxic in only slightly higher amounts than the medicinal dosage, and careless use often results in hospitalizations and deaths. Datura stramonium is a foul-smelling, erect, annual, freely branching herb that forms a bush up to 60 to 150 cm (2 to 5 ft) tall. The root is long, thick, fibrous, and white. The stem is stout, erect, leafy, smooth, and pale yellow-green. The stem forks off repeatedly into branches, and each fork forms a leaf and a single, erect flower. The leaves are about 8 to 20 cm (3–8 in) long, smooth, toothed, soft, and irregularly undulated. The upper surface of the leaves is a darker green, and the bottom is a light green. The leaves have a bitter and nauseating taste, which is imparted to extracts of the herb, and remains even after the leaves have been dried. Datura stramonium generally flowers throughout the summer. The fragrant flowers are trumpet-shaped, white to creamy or violet, and 6 to 9 cm (2 1⁄2–3 1⁄2 in) long, and grow on short stems from either the axils of the leaves or the places where the branches fork. The calyx is long and tubular, swollen at the bottom, and sharply angled, surmounted by five sharp teeth. The corolla, which is folded and only partially open, is white, funnel-shaped, and has prominent ribs. The flowers open at night, emitting a pleasant fragrance, and are fed upon by nocturnal moths."
+        },
+        {
+            "name": "tiger lily",
+            "family": "Liliaceae",
+            "genus": "Lilium",
+            "species": "L. lancifolium",
+            "wiki": "Lilium lancifolium is an Asian species of lily, native to China, Japan, Korea, and the Russian Far East. It is widely planted as an ornamental because of its showy orange-and-black flowers, and has become naturalized in numerous scattered locations in eastern North America (particularly in New England).It is one of several species of lily to which the common name tiger lily is applied, and some regard this the correct species to which the name should be applied. Botanists for many years considered L. tigrinum the correct scientific name until it was determined that older name L. lancifolium refers to the same species. Under the rules of international botanical nomenclature, the older name takes precedence. Like other true lilies, the flowers are borne on erect stems. In this species, stems are 80–200 centimetres (31–79 in) tall and bear lanceolate leaves 6–10 centimetres (2.4–3.9 in) long and 1–2 centimetres (0.39–0.79 in) broad. This lily produces aerial bulblets, known as bulbils, in the leaf axils along stems, which is rare in Lilium species. New plants grow from these bulbils. A shoot's flowers each last a few days and produce capsules if they are pollinated."
+        },
+        {
+            "name": "toad lily",
+            "family": "Liliaceae",
+            "genus": "Tricyrtis",
+            "species": "T. hirta",
+            "wiki": "Tricyrtis hirta, the toad lily, or hairy toad lily, is a Japanese species of hardy perennial plants in the lily family. Tricyrtis hirta is found growing on shaded rocky cliffs and stream banks in central and southern Japan. Leaves are large and wide, clasping around the stem. The flowers are whitish to pale purple with dark purple spots."
+        },
+        {
+            "name": "tree mallow flower",
+            "family": "Malvaceae",
+            "genus": "Malva",
+            "species": "M. arborea",
+            "wiki": "Malva arborea (also known as Lavatera arborea, or, more recently as Malva eriocalyx), the tree mallow, is a species of mallow native to the coasts of western Europe and the Mediterranean region, from the British Isles south to Algeria and Libya, and east to Greece. It is a shrubby annual, biennial or perennial plant growing to 0.5–2 m (rarely 3 m) tall. The leaves are orbicular, 8–18 cm diameter, palmately lobed with five to nine lobes, and a coarsely serrated margin. The flowers are 3–4 cm diameter, dark pink to purple and grow in fasciculate axillary clusters of two to seven. It grows mainly on exposed coastal locations, often on small islands, only rarely any distance inland. Although long considered a species of Lavatera, genetic and morphological analysis by Martin Forbes Ray, reported in 1998, suggested it was better placed in the genus Malva, in which it was named Malva dendromorpha M.F.Ray. However the earlier name Malva arborea L. (Webb & Berthol.) was validly published and has priority over Malva dendromorpha."
+        },
+        {
+            "name": "tree poppy",
+            "family": "Papaveraceae",
+            "genus": "Romneya",
+            "species": "R. coulteri",
+            "wiki": "Romneya coulteri, the Coulter's Matilija poppy or California tree poppy, is a perennial species of flowering plant in the poppy family. Native to southern California and Baja California, it grows in dry canyons in chaparral and coastal sage scrub plant communities, sometimes in areas recently burned. It is a popular ornamental plant, kept for its large, showy flowers. The specific epithet commemorates Thomas Coulter, an Irish botanist and explorer. This is a shrub which may exceed 2 m (7 ft) in height, its woody stem growing from a network of rhizomes. The gray-green, waxy-textured leaves are each divided into a few lance-shaped lobes, the blades growing up to 20 centimeters (7.8 in) long. The inflorescence is a large, solitary flower with six crinkly white petals each up to 10 cm (4 in) long. At the center of the flower is a cluster of many yellow stamens. The fruit is a bristly capsule, 3–4 cm (1–2 in) long, containing many tiny seeds. While beautiful, this plant often grows aggressively once planted. It spread clonally by underground rhizomes and can pop up several feet away from the original plant. This plant bears the largest flowers of any species native to California, rivaled only by Hibiscus lasiocarpos. It was nominated for the honor of California state flower in 1890, but the California poppy won the title in a landslide."
+        },
+        {
+            "name": "trumpet creeper",
+            "family": "Bignoniaceae",
+            "genus": "Campsis",
+            "species": "C. radicans",
+            "wiki": "Campsis radicans (trumpet vine or trumpet creeper, also known in North America as cow itch vine or hummingbird vine), is a species of flowering plant of the family Bignoniaceae, native to the eastern United States and naturalized in parts of the western United States as well as in Ontario, parts of Europe, and scattered locations in Latin America. Growing to 10 m (33 ft), it is a vigorous, deciduous woody vine, notable for its showy trumpet-shaped flowers. It inhabits woodlands and riverbanks, and is also a popular garden subject. The leaves are opposite, ovate, pinnate, 3–10 cm long, and emerald green when new, maturing into a dark green. The flowers come in terminal cymes of 4–12, orange to red in color with a yellowish throat, and generally appear after several months of warm weather."
+        },
+        {
+            "name": "wallflower",
+            "family": "Brassicaceae",
+            "genus": "Erysimum",
+            "species": "",
+            "wiki": "Erysimum (wallflower) is a genus of flowering plants that includes about 180 species of popular garden plants and many wild forms in the botanical family Brassicaceae. The genus Cheiranthus is sometimes included here in whole or in part. Erysimum has since the early 21st century been ascribed to a monogeneric cruciferous tribe, Erysimeae, characterised by sessile, stellate and/or malpighiaceous trichomes, yellow to orange flowers and multiseeded siliques. Wallflowers are annuals, herbaceous perennials or sub-shrubs. The perennial species are short-lived and in cultivation treated as biennials. Most species have stems erect, somewhat winged, canescent with an indumentum of bifid hairs, usually 25 ± 53 cm × 2–3 mm in size, and t-shaped trichomes. The leaves are narrow and sessile. The lower leaves are linear to oblanceolate pinnatifid with backwardly directed lobes, acute, 50–80 mm × 0.5–3 mm."
+        },
+        {
+            "name": "water lily",
+            "family": "Nymphaeaceae",
+            "genus": "",
+            "species": "",
+            "wiki": "Nymphaeaceae is a family of flowering plants, commonly called water lilies. They live as rhizomatous aquatic herbs in temperate and tropical climates around the world. The family contains five genera with about 70 known species. Water lilies are rooted in soil in bodies of water, with leaves and flowers floating on or emergent from the surface. The leaves are round, with a radial notch in Nymphaea and Nuphar, but fully circular in Victoria and Euryale. Water lilies are a well studied clade of plants because their large flowers with multiple unspecialized parts were initially considered to represent the floral pattern of the earliest flowering plants, and later genetic studies confirmed their evolutionary position as basal angiosperms. Analyses of floral morphology and molecular characteristics and comparisons with a sister taxon, the family Cabombaceae, indicate, however, that the flowers of extant water lilies with the most floral parts are more derived than the genera with fewer floral parts. Genera with more floral parts, Nuphar, Nymphaea, Victoria, have a beetle pollination syndrome, while genera with fewer parts are pollinated by flies or bees, or are self- or wind-pollinated. Thus, the large number of relatively unspecialized floral organs in the Nymphaeaceae is not an ancestral condition for the clade. Water lilies do not have surface leaves during winter, and therefore the gases in the rhizome lacunae access equilibrium with the gases of the sediment water. The leftover of internal pressure is embodied by the constant streams of bubbles that outbreak when rising leaves are ruptured in the spring."
+        },
+        {
+            "name": "watercress flower",
+            "family": "Brassicaceae",
+            "genus": "Nasturtium",
+            "species": "N. officinale",
+            "wiki": "Watercress is an aquatic plant species with the botanical name Nasturtium officinale. This should not be confused with the profoundly different and unrelated group of plants with the common name of nasturtium, within the genus Tropaeolum. Watercress is a rapidly growing, aquatic or semi-aquatic, perennial plant native to Europe and Asia, and one of the oldest known leaf vegetables consumed by humans. It is a member of the family Brassicaceae, botanically related to garden cress, mustard, radish, and wasabi—all noteworthy for their piquant flavor. The hollow stems of watercress will float; the leaf structure is pinnately compound. Small, white and green flowers are produced in clusters and are frequently visited by insects, especially hoverflies such as Eristalis flies."
+        },
+        {
+            "name": "wild pansy",
+            "family": "Violaceae",
+            "genus": "Viola",
+            "species": "V. tricolor",
+            "wiki": "Viola tricolor, also known as Johnny Jump up (though this name is also applied to similar species such as the yellow pansy), heartsease, heart's ease, heart's delight, tickle-my-fancy, Jack-jump-up-and-kiss-me, come-and-cuddle-me, three faces in a hood, or love-in-idleness, is a common European wild flower, growing as an annual or short-lived perennial. It has been introduced into North America, where it has spread. It is the progenitor of the cultivated pansy, and is therefore sometimes called wild pansy; before the cultivated pansies were developed, \"pansy\" was an alternative name for the wild form. It can produce up to 50 seeds at a time. The flowers can be purple, blue, yellow or white. Viola tricolor is a small plant of creeping and ramping habit, reaching at most 15 cm in height, with flowers about 1.5 cm in diameter. It grows in short grassland on farms and wasteland, chiefly on acid or neutral soils. It is usually found in partial shade. Its root is rhizome type with fine rootlets. The stem (acoli stem: which remains flush with the soil and from which leave the leaves and the flowering stalk) is hairless, sometimes downy and is branched. The plant has no leaf rosette at the base, unlike some other violets, such as Viola hirta. Leaves are, on the contrary, alternate . They are stalked at limbus oval, oblong or lanceolate and more or less serrated margins. The stipules are often quite developed, at least those of the upper leaves. These stipules are palm-lined or palmatised. The flowers are solitary and lateral, hoisted on long peduncles. They appear on aerial stems with more or less long internodes. The sepals are never larger than the corolla . It is 10 to 25 mm long. This corolla can be purple, purple, blue, yellow or white. It can most often be two-tone, yellow and purple. The tricolor shape, yellow, white and purple, is the most sought after. It flowers from April to September (in the northern hemisphere). They are hermaphrodite and self-fertile, pollinated by bees."
+        },
+        {
+            "name": "windflower",
+            "family": "Ranunculaceae",
+            "genus": "Anemone",
+            "species": "A. hupehensis",
+            "wiki": "Anemone hupehensis (commonly known as the Chinese anemone or Japanese anemone, thimbleweed, or windflower) are species of flowering herbaceous perennials in the Ranunculaceae family. Height is 3–4 ft (1–1 m). Leaves have three leaflets. Flowers are 40–60 mm (1.6–2.4 in) across, with 5-6 (or up to 20 in double forms) sculpted pink or white sepals and prominent yellow stamens, blooming from midsummer to autumn. These plants thrive best in shady areas and under protection of larger plants, and in all but the hottest and the driest conditions in the United States. They are especially sensitive to drought or overwatering. They can be invasive or weedy in some areas, throwing out suckers from the fibrous rootstock, to rapidly colonise an area. Once established they can be extremely difficult to eradicate. On the other hand, they can take some time to become established. A. hupehensis is one of a handful of species that are autumn flowering. A. hupehensis is native to central China, though it has been naturalised in Japan for hundreds of years."
+        },
+        {
+            "name": "yellow iris",
+            "family": "Iridaceae",
+            "genus": "Iris",
+            "species": "I. pseudacorus",
+            "wiki": "Iris pseudacorus (yellow flag, yellow iris, water flag) is a species of flowering plant of the family Iridaceae. It is native to Europe, western Asia and northwest Africa. Its specific epithet, meaning \"false acorus\", refers to the similarity of its leaves to those of Acorus calamus (sweet flag) as they have a prominently veined mid-rib and sword-like shape. However, they are not closely related. The plant was rated in second place for per day nectar production per flower in a UK plants survey conducted by the AgriLand project which is supported by the UK Insect Pollinators Initiative. (However, when number of flowers per floral unit, flower abundance, and phenology were taken into account it dropped out of the top 10 for most nectar per unit cover per year, as did all plants that placed in the top ten along with this one for per day nectar production per flower, with the exception of common comfrey, Symphytum officinale. It is an herbaceous flowering perennial plant, growing to 100–150 centimetres (39–59 in) (or a rare 2 metres (6 ft 7 in)) tall, with erect leaves up to 90 centimetres (35 in) long and 3 centimetres (1.2 in) broad. The flowers are bright yellow, 7–10 centimetres (2.8–3.9 in) across, with the typical iris form. The fruit is a dry capsule 4–7 centimetres (1.6–2.8 in) long, containing numerous pale brown seeds. I. pseudacorus grows best in very wet conditions, and is often common in wetlands, where it tolerates submersion, low pH, and anoxic soils. The plant spreads quickly, by both rhizome and water-dispersed seed. It fills a similar niche to that of Typha and often grows with it, though usually in shallower water. While it is primarily an aquatic plant, the rhizomes can survive prolonged dry conditions."
+        }
+     ]
+}

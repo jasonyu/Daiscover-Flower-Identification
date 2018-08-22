@@ -29,6 +29,32 @@ class ClassificationViewController: UIViewController {
     @IBOutlet weak var classificationText: UITextView!
     @IBOutlet weak var predictionView: UIImageView!
     
+    struct ResponseData: Decodable {
+        var flowers: [Flower]
+    }
+    
+    struct Flower : Decodable {
+        var name: String
+        var family: String
+        var genus: String
+        var species: String
+        var wiki: String
+    }
+    
+    func loadJSON(filename fileName: String) -> [Flower]? {
+        if let url = Bundle.main.url(forResource: fileName, withExtension: "json") {
+            do {
+                let data = try Data(contentsOf: url)
+                let decoder = JSONDecoder()
+                let jsonData = try decoder.decode(ResponseData.self, from: data)
+                return jsonData.flowers
+            } catch {
+                print("error:\(error)")
+            }
+        }
+        return nil
+    }
+    
     // Create a request through FlowerClass Model
     lazy var classificationRequest: VNCoreMLRequest = {
         do {
@@ -42,7 +68,7 @@ class ClassificationViewController: UIViewController {
             fatalError("Failed to load Vision ML model: \(error)")
         }
     }()
-    
+
     // Get classifications
     func updateClassifications(for image: UIImage) {
         classificationText.text = "Indentifying Flower..."
@@ -83,6 +109,7 @@ class ClassificationViewController: UIViewController {
             self.classificationText.text = "No other possible classifications. Tap Wrong Flower too cycle through again."
         }
         else {
+            let database = loadJSON(filename: "database")
             if classNum > 3 { classNum = 0 }
             var newText = ""
             switch classNum {
@@ -97,7 +124,8 @@ class ClassificationViewController: UIViewController {
             }
             guard let pred = topClassifications?[classNum].identifier else {classNum = 0; return}
             let chance = String(format: "%.2f" ,topClassifications![classNum].confidence * 100) + "%"
-            newText += pred + " with a chance of " + chance + ". " + "Wikipedia description will go here."
+            let predInfo = database!.filter{$0.name == pred}
+            newText += pred + " with a chance of " + chance + ". " + predInfo[0].wiki
             self.classificationText.text = newText
             self.predictionView.image = UIImage(named: "flower photos/" + self.topClassifications![classNum].identifier + ".jpg")
         }
