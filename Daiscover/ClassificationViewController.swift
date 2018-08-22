@@ -131,6 +131,7 @@ class ClassificationViewController: UIViewController {
         }
     }
     
+    
     @IBAction func takePicture() {
         guard UIImagePickerController.isSourceTypeAvailable(.camera) else {
             return
