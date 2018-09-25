@@ -7,13 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		00101EE92159B3EF00AD7EE2 /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00101EE82159B3EF00AD7EE2 /* UIViewExtension.swift */; };
+		00101EEB215A0AD600AD7EE2 /* StartupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00101EEA215A0AD600AD7EE2 /* StartupViewController.swift */; };
 		001909B4211BCBEC004291A5 /* REIS-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 001909B3211BCBEC004291A5 /* REIS-Regular.otf */; };
 		00201DCF211CB6ED00C99279 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00201DCE211CB6ED00C99279 /* Launch Screen.storyboard */; };
+		004EEF1321362DA600828501 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004EEF1221362DA600828501 /* PageViewController.swift */; };
+		004EEF15213790AA00828501 /* OtherFlowerViewControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004EEF14213790AA00828501 /* OtherFlowerViewControllers.swift */; };
 		005DEDF7211BC49B00EDD7C5 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 005DEDF5211BC49B00EDD7C5 /* logo.png */; };
 		005DEDF8211BC49B00EDD7C5 /* flower photos in Resources */ = {isa = PBXBuildFile; fileRef = 005DEDF6211BC49B00EDD7C5 /* flower photos */; };
+		007262102159582300EE9AC8 /* FlowerOrNot.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0072620F2159582300EE9AC8 /* FlowerOrNot.mlmodel */; };
 		008C7C7D210962DF002E2537 /* FlowerClass.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */; };
-		0095C465211BFAD5008EE024 /* StartupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0095C464211BFAD5008EE024 /* StartupViewController.swift */; };
 		0095C467211BFB3D008EE024 /* ClassificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0095C466211BFB3D008EE024 /* ClassificationViewController.swift */; };
+		00C2806F215A22DC00604CBB /* UIViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C2806E215A22DC00604CBB /* UIViewControllerExtension.swift */; };
 		00D25523212CEE7300A2E403 /* incrementbuild.sh in Resources */ = {isa = PBXBuildFile; fileRef = 00D25522212CEE7300A2E403 /* incrementbuild.sh */; };
 		00D2552D212CFA8000A2E403 /* database.json in Resources */ = {isa = PBXBuildFile; fileRef = 00D2552C212CFA8000A2E403 /* database.json */; };
 		11063F621EC0EECC0033EE6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11063F611EC0EECC0033EE6D /* AppDelegate.swift */; };
@@ -23,13 +28,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		00101EE82159B3EF00AD7EE2 /* UIViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
+		00101EEA215A0AD600AD7EE2 /* StartupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartupViewController.swift; sourceTree = "<group>"; };
 		001909B3211BCBEC004291A5 /* REIS-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "REIS-Regular.otf"; sourceTree = "<group>"; };
 		00201DCE211CB6ED00C99279 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		004EEF1221362DA600828501 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		004EEF14213790AA00828501 /* OtherFlowerViewControllers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherFlowerViewControllers.swift; sourceTree = "<group>"; };
 		005DEDF5211BC49B00EDD7C5 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 		005DEDF6211BC49B00EDD7C5 /* flower photos */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "flower photos"; sourceTree = "<group>"; };
+		0072620F2159582300EE9AC8 /* FlowerOrNot.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = FlowerOrNot.mlmodel; sourceTree = "<group>"; };
 		008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = FlowerClass.mlmodel; path = "Daiscover/Supporting Files/FlowerClass.mlmodel"; sourceTree = SOURCE_ROOT; };
-		0095C464211BFAD5008EE024 /* StartupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartupViewController.swift; sourceTree = "<group>"; };
 		0095C466211BFB3D008EE024 /* ClassificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassificationViewController.swift; sourceTree = "<group>"; };
+		00C2806E215A22DC00604CBB /* UIViewControllerExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtension.swift; sourceTree = "<group>"; };
 		00D25522212CEE7300A2E403 /* incrementbuild.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = incrementbuild.sh; sourceTree = "<group>"; };
 		00D2552C212CFA8000A2E403 /* database.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = database.json; sourceTree = "<group>"; };
 		11063F5E1EC0EECC0033EE6D /* Daiscover.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Daiscover.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -70,11 +80,15 @@
 		11063F601EC0EECC0033EE6D /* Daiscover */ = {
 			isa = PBXGroup;
 			children = (
+				00101EE82159B3EF00AD7EE2 /* UIViewExtension.swift */,
 				11063F611EC0EECC0033EE6D /* AppDelegate.swift */,
 				0095C466211BFB3D008EE024 /* ClassificationViewController.swift */,
-				0095C464211BFAD5008EE024 /* StartupViewController.swift */,
+				004EEF14213790AA00828501 /* OtherFlowerViewControllers.swift */,
+				00101EEA215A0AD600AD7EE2 /* StartupViewController.swift */,
 				11063F731EC0F5270033EE6D /* CGImagePropertyOrientationConversion.swift */,
 				11063F651EC0EECC0033EE6D /* Main.storyboard */,
+				00C2806E215A22DC00604CBB /* UIViewControllerExtension.swift */,
+				004EEF1221362DA600828501 /* PageViewController.swift */,
 				C82A1C951F1809F5005996F6 /* Supporting Files */,
 			);
 			path = Daiscover;
@@ -83,6 +97,7 @@
 		C82A1C951F1809F5005996F6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0072620F2159582300EE9AC8 /* FlowerOrNot.mlmodel */,
 				00201DCE211CB6ED00C99279 /* Launch Screen.storyboard */,
 				00D25522212CEE7300A2E403 /* incrementbuild.sh */,
 				008C7C7C210962DF002E2537 /* FlowerClass.mlmodel */,
@@ -198,8 +213,13 @@
 				008C7C7D210962DF002E2537 /* FlowerClass.mlmodel in Sources */,
 				11063F741EC0F5270033EE6D /* CGImagePropertyOrientationConversion.swift in Sources */,
 				0095C467211BFB3D008EE024 /* ClassificationViewController.swift in Sources */,
+				004EEF1321362DA600828501 /* PageViewController.swift in Sources */,
+				00101EEB215A0AD600AD7EE2 /* StartupViewController.swift in Sources */,
+				00C2806F215A22DC00604CBB /* UIViewControllerExtension.swift in Sources */,
+				007262102159582300EE9AC8 /* FlowerOrNot.mlmodel in Sources */,
 				11063F621EC0EECC0033EE6D /* AppDelegate.swift in Sources */,
-				0095C465211BFAD5008EE024 /* StartupViewController.swift in Sources */,
+				00101EE92159B3EF00AD7EE2 /* UIViewExtension.swift in Sources */,
+				004EEF15213790AA00828501 /* OtherFlowerViewControllers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

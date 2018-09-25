@@ -17,29 +17,26 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="Rti-KX-gwr">
-                                <rect key="frame" x="50" y="291" width="314" height="314"/>
-                                <gestureRecognizers/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="a7M-WN-ULv">
+                                <rect key="frame" x="80" y="321" width="254" height="254"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" secondItem="Rti-KX-gwr" secondAttribute="height" multiplier="1:1" id="vEZ-Pg-jsU"/>
+                                    <constraint firstAttribute="width" secondItem="a7M-WN-ULv" secondAttribute="height" multiplier="1:1" id="qnm-r7-Jjg"/>
                                 </constraints>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" red="0.99934309720000003" green="0.67420345540000004" blue="0.007206617389" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <gestureRecognizers/>
                         <constraints>
-                            <constraint firstItem="Rti-KX-gwr" firstAttribute="width" secondItem="Rti-KX-gwr" secondAttribute="height" multiplier="1:1" id="5EB-KA-bGw"/>
-                            <constraint firstItem="Rti-KX-gwr" firstAttribute="centerY" secondItem="4sC-hv-zSk" secondAttribute="centerY" id="Lo0-gX-TiX"/>
-                            <constraint firstAttribute="trailing" secondItem="Rti-KX-gwr" secondAttribute="trailing" constant="50" id="NEJ-4V-1Cr"/>
-                            <constraint firstItem="Rti-KX-gwr" firstAttribute="centerX" secondItem="4sC-hv-zSk" secondAttribute="centerX" id="WWy-EJ-3N1"/>
-                            <constraint firstItem="Rti-KX-gwr" firstAttribute="leading" secondItem="4sC-hv-zSk" secondAttribute="leading" constant="50" id="ZkC-I4-T72"/>
+                            <constraint firstItem="a7M-WN-ULv" firstAttribute="centerY" secondItem="4sC-hv-zSk" secondAttribute="centerY" id="8IE-LG-OOd"/>
+                            <constraint firstItem="5Xv-gP-qWf" firstAttribute="trailing" secondItem="a7M-WN-ULv" secondAttribute="trailing" constant="80" id="Lpd-Sb-TZm"/>
+                            <constraint firstItem="a7M-WN-ULv" firstAttribute="leading" secondItem="5Xv-gP-qWf" secondAttribute="leading" constant="80" id="ir5-mO-R3Z"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="5Xv-gP-qWf"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="53" y="375"/>
+            <point key="canvasLocation" x="52.173913043478265" y="375"/>
         </scene>
     </scenes>
     <resources>

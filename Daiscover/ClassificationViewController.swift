@@ -23,6 +23,7 @@ class ClassificationViewController: UIViewController {
     var fdelegate2: FlowerDelegate? //delegate for 2nd view
     var fdelegate3: FlowerDelegate? //delegate for 3rd view
     var database: [Flower]? //used for loading in JSON database
+    var loadI: UIView? = nil //loading indicator
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -36,7 +37,7 @@ class ClassificationViewController: UIViewController {
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         leftBar.fadeIn()
-        if (predictionView.image != nil) {
+        if (predictionView.image != nil) { //check if classifcation has been made
             rightBar.fadeIn()
         }
         if (newPhoto) { //open camera automatically
@@ -121,7 +122,6 @@ class ClassificationViewController: UIViewController {
 
     // Get classifications
     func updateClassifications(for image: UIImage) {
-        classificationText.text = "Indentifying Flower..."
         let orientation = CGImagePropertyOrientation(image.imageOrientation)
         guard let ciImage = CIImage(image: image) else { fatalError("Unable to create \(CIImage.self) from \(image).") }
         DispatchQueue.global(qos: .userInitiated).async {
@@ -209,6 +209,7 @@ class ClassificationViewController: UIViewController {
     // Send Flower data to other views and updtae description in current view
     func updateDescription() {
         rightBar.fadeIn()
+        UIViewController.removeSpinner(spinner: loadI!)
         let flower = getFlowerData(classNum: 0)
         fdelegate2?.sendFlowerData(data: getFlowerData(classNum: 1))
         fdelegate3?.sendFlowerData(data: getFlowerData(classNum: 2))
@@ -231,6 +232,8 @@ class ClassificationViewController: UIViewController {
     
     // Open camera picker (connected to UI Button)
     @IBAction func takePicture() {
+        predictionView.fadeOut()
+        classificationText.fadeOut()
         guard UIImagePickerController.isSourceTypeAvailable(.camera) else {
             return
         }
@@ -250,6 +253,7 @@ extension ClassificationViewController: UIImagePickerControllerDelegate, UINavig
         let info = convertFromUIImagePickerControllerInfoKeyDictionary(info)
         picker.dismiss(animated: true)
         let image = info[convertFromUIImagePickerControllerInfoKey(UIImagePickerController.InfoKey.originalImage)] as! UIImage
+        loadI = UIViewController.displaySpinner(onView: self.view)
         updateClassifications(for: image) //classify image
     }
 }
