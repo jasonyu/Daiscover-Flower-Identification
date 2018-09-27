@@ -28,6 +28,28 @@ class ClassificationViewController: UIViewController {
     var predViewLocation: CGPoint? = nil //location of prediction image
     var initialPos: CGPoint? = nil //initial position for affine transformation
     
+    @objc func pinchImage(sender: UIPinchGestureRecognizer) {
+        if (sender.state == .began) { //get position of image initially
+            initialPos = sender.location(in: self.view)
+        }
+        if (sender.state == .began || sender.state == .changed) { //starting applying transformations
+            var scale = sender.scale
+            let newPos = sender.location(ofTouch: 0, in: self.view)
+            if (scale < 1.0) {
+                scale = 1.0
+            }
+            else if (scale > 2.5) {
+                scale = 2.5
+            }
+            self.predictionView.transform = CGAffineTransform(scaleX: scale, y: scale).concatenating(CGAffineTransform(translationX: self.predViewLocation!.x + newPos.x - self.initialPos!.x, y: self.predViewLocation!.y + newPos.y - self.initialPos!.y))
+        }
+        else if (sender.state == .ended) { //animate back to original state
+            UIView.animate(withDuration: 0.3, animations: {
+                self.predictionView.transform = CGAffineTransform.identity
+            })
+        }
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         rightBar.alpha = 0 //right bar hidden until pages are in view
@@ -36,6 +58,8 @@ class ClassificationViewController: UIViewController {
         predictionView.alpha = 0
         database = loadJSON(filename: "database") //load JSON DB once on open
         predViewLocation = self.predictionView.frame.origin
+        let pinchGesture = UIPinchGestureRecognizer(target: self, action: #selector(self.pinchImage))
+        view.addGestureRecognizer(pinchGesture)
     }
     
     override func viewDidAppear(_ animated: Bool) {
@@ -71,27 +95,6 @@ class ClassificationViewController: UIViewController {
     @IBOutlet weak var leftBar: UIView!
     
     // Handles mutation of prediction images for better view
-    @IBAction func pinchImage(sender: UIPinchGestureRecognizer) {
-        if (sender.state == .began) { //get position of image initially
-            initialPos = sender.location(in: self.view)
-        }
-        if (sender.state == .began || sender.state == .changed) { //starting applying transformations
-            var scale = sender.scale
-            let newPos = sender.location(in: self.view)
-            if (scale < 1.0) {
-                scale = 1.0
-            }
-            else if (scale > 2.5) {
-                scale = 2.5
-            }
-            self.predictionView.transform = CGAffineTransform(scaleX: scale, y: scale).concatenating(CGAffineTransform(translationX: predViewLocation!.x + newPos.x - initialPos!.x, y: predViewLocation!.y + newPos.y - initialPos!.y))
-        }
-        else if (sender.state == .ended) { //animate back to original state
-            UIView.animate(withDuration: 0.3, animations: {
-                self.predictionView.transform = CGAffineTransform.identity
-            })
-        }
-    }
     
     // Structs for loading and storing Flower data from database
     struct ResponseData: Decodable {

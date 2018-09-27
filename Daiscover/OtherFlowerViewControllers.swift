@@ -29,6 +29,8 @@ class Flower2ViewController: UIViewController, FlowerDelegate {
         rightBar.alpha = 0
         leftBar.alpha = 0
         predViewLocation = self.predictionView.frame.origin
+        let pinchGesture = UIPinchGestureRecognizer(target: self, action: #selector(self.pinchImage))
+        view.addGestureRecognizer(pinchGesture)
     }
     
     override func viewWillDisappear(_ animated: Bool) { //fade out when leaving
@@ -64,13 +66,13 @@ class Flower2ViewController: UIViewController, FlowerDelegate {
         self.predictionView.image = UIImage(named: "flower photos/" + (classification?.name)! + ".jpg")
     }
     // Handles mutation of prediction images for better view
-    @IBAction func pinchImage(sender: UIPinchGestureRecognizer) {
+    @objc func pinchImage(sender: UIPinchGestureRecognizer) {
         if (sender.state == .began) { //get position of image initially
             initialPos = sender.location(in: self.view)
         }
         if (sender.state == .began || sender.state == .changed) { //starting applying transformations
             var scale = sender.scale
-            let newPos = sender.location(in: self.view)
+            let newPos = sender.location(ofTouch: 0, in: self.view)
             if (scale < 1.0) {
                 scale = 1.0
             }
@@ -101,6 +103,8 @@ class Flower3ViewController: UIViewController, FlowerDelegate {
         super.viewDidLoad()
         leftBar.alpha = 0
         predViewLocation = self.predictionView.frame.origin
+        let pinchGesture = UIPinchGestureRecognizer(target: self, action: #selector(self.pinchImage))
+        view.addGestureRecognizer(pinchGesture)
     }
     
     override func viewDidAppear(_ animated: Bool) { //fade in when appearing
@@ -138,13 +142,13 @@ class Flower3ViewController: UIViewController, FlowerDelegate {
         self.predictionView.image = UIImage(named: "flower photos/" + (classification?.name)! + ".jpg")
     }
     // Handles mutation of prediction images for better view
-    @IBAction func pinchImage(sender: UIPinchGestureRecognizer) {
+    @objc func pinchImage(sender: UIPinchGestureRecognizer) {
         if (sender.state == .began) { //get position of image initially
             initialPos = sender.location(in: self.view)
         }
         if (sender.state == .began || sender.state == .changed) { //starting applying transformations
             var scale = sender.scale
-            let newPos = sender.location(in: self.view)
+            let newPos = sender.location(ofTouch: 0, in: self.view)
             if (scale < 1.0) {
                 scale = 1.0
             }
