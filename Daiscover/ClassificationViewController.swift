@@ -24,6 +24,9 @@ class ClassificationViewController: UIViewController {
     var fdelegate3: FlowerDelegate? //delegate for 3rd view
     var database: [Flower]? //used for loading in JSON database
     var loadI: UIView? = nil //loading indicator
+    var currentFlower: UIImage? = nil //flower image placeholder
+    var predViewLocation: CGPoint? = nil //location of prediction image
+    var initialPos: CGPoint? = nil //initial position for affine transformation
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -32,31 +35,63 @@ class ClassificationViewController: UIViewController {
         classificationText.alpha = 0
         predictionView.alpha = 0
         database = loadJSON(filename: "database") //load JSON DB once on open
+        predViewLocation = self.predictionView.frame.origin
     }
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-        leftBar.fadeIn()
-        if (predictionView.image != nil) { //check if classifcation has been made
-            rightBar.fadeIn()
-        }
         if (newPhoto) { //open camera automatically
             newPhoto = false
             takePicture()
         }
     }
     
-    override func viewWillDisappear(_ animated: Bool) {
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        leftBar.fadeIn()
+        if (predictionView.image != nil) { //check if classifcation has been made
+            rightBar.fadeIn()
+        }
+        if (classificationText.text != "") { //bring it back up if cancelled
+            classificationText.fadeIn()
+            predictionView.fadeIn()
+        }
+    }
+    
+    override func viewWillDisappear(_ animated: Bool) { //fade out when leaving view
         super.viewWillDisappear(animated)
         leftBar.fadeOut()
         rightBar.fadeOut()
     }
     
-    //UI elements
+    // UI elements
     @IBOutlet weak var classificationText: UITextView!
     @IBOutlet weak var predictionView: UIImageView!
     @IBOutlet weak var rightBar: UIView!
     @IBOutlet weak var leftBar: UIView!
+    
+    // Handles mutation of prediction images for better view
+    @IBAction func pinchImage(sender: UIPinchGestureRecognizer) {
+        if (sender.state == .began) { //get position of image initially
+            initialPos = sender.location(in: self.view)
+        }
+        if (sender.state == .began || sender.state == .changed) { //starting applying transformations
+            var scale = sender.scale
+            let newPos = sender.location(in: self.view)
+            if (scale < 1.0) {
+                scale = 1.0
+            }
+            else if (scale > 2.5) {
+                scale = 2.5
+            }
+            self.predictionView.transform = CGAffineTransform(scaleX: scale, y: scale).concatenating(CGAffineTransform(translationX: predViewLocation!.x + newPos.x - initialPos!.x, y: predViewLocation!.y + newPos.y - initialPos!.y))
+        }
+        else if (sender.state == .ended) { //animate back to original state
+            UIView.animate(withDuration: 0.3, animations: {
+                self.predictionView.transform = CGAffineTransform.identity
+            })
+        }
+    }
     
     // Structs for loading and storing Flower data from database
     struct ResponseData: Decodable {
@@ -135,6 +170,7 @@ class ClassificationViewController: UIViewController {
                     // Alert pop up
                     let alert = UIAlertController(title: "No flower detected", message: "Try taking a new photo or continue classifying the current photo.", preferredStyle: .alert)
                     alert.addAction(UIAlertAction(title: "Try Again", style: .default, handler: { action in
+                        UIViewController.removeSpinner(spinner: self.loadI!)
                         self.takePicture()
                     }))
                     alert.addAction(UIAlertAction(title: "Continue", style: .cancel, handler: { action in //must redefine do catch to avoid errors when trying the classification
@@ -196,10 +232,10 @@ class ClassificationViewController: UIViewController {
         let pred = topClassifications?[classNum].identifier
         var chance = ""
         if (self.isFlower){
-            chance = String(format: "%.2f" ,topClassifications![classNum].confidence * 100) + "%"
+            chance = String(format: "%.0f" ,topClassifications![classNum].confidence * 100) + "%"
         }
         else { //half as confident if not labeled as flower
-            chance = String(format: "%.2f" ,topClassifications![classNum].confidence * 50) + "%"
+            chance = String(format: "%.0f" ,topClassifications![classNum].confidence * 50) + "%"
         }
         
         let predInfo = database!.filter{$0.name == pred}
@@ -225,8 +261,10 @@ class ClassificationViewController: UIViewController {
         }
         let description = "\n\n" + flower.wiki + "\n\nDesciption provided by Wikipedia."
         self.classificationText.text = name + description
-        classificationText.fadeIn()
-        self.predictionView.image = UIImage(named: "flower photos/" + flower.name + ".jpg")
+        self.classificationText.setContentOffset(.zero, animated: false)
+        self.classificationText.fadeIn()
+        self.currentFlower = UIImage(named: "flower photos/" + flower.name + ".jpg")
+        self.predictionView.image = currentFlower
         predictionView.fadeIn()
     }
     
@@ -234,16 +272,13 @@ class ClassificationViewController: UIViewController {
     @IBAction func takePicture() {
         predictionView.fadeOut()
         classificationText.fadeOut()
-        guard UIImagePickerController.isSourceTypeAvailable(.camera) else {
-            return
-        }
+        guard UIImagePickerController.isSourceTypeAvailable(.camera) else { return }
         let picker = UIImagePickerController()
         picker.delegate = self
         picker.sourceType = .camera
         present(picker, animated: true)
         rightBar.fadeIn()
     }
-    
 }
 
 // Work with new image
